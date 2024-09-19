@@ -1,0 +1,3294 @@
+{
+  "Il Trio": [
+    {
+      "name": "Pasta all arrabbiata",
+      "price": "13,50e",
+      "info": "Pasta, chili, valkosipuli, basilika, tomattikastike, parmesaani"
+    },
+    {
+      "name": "Pasta al gorgonzola zucchine e prosciutto",
+      "price": "13,50e",
+      "info": "Pasta, kesäkurpitsa, gorgonzolajuusto, keitettyä kinkkua, maito, kerma, mustapippuri, oliviöljy"
+    },
+    {
+      "name": "Pizza tonno e cipolla",
+      "price": "13,50e",
+      "info": "Tomaattikastike, fior di latte mozzarella, tonnikala, sipuli"
+    },
+    {
+      "name": "Entrecôte al vino",
+      "price": "15,90e",
+      "info": "Entrecôte pihvi, punaviini, salvia, rosmariini, voi, oliiviöljy, sipuli, mustapippuri, vihannekset ja perunat"
+    }
+  ],
+  "Food & Co Pääposti": [
+    {
+      "name": "Nordic buffet",
+      "price": "13,50e",
+      "info": "Päivän keitto\nSatokauden kasviksia\nKukkakaali-manchegopihvejä *, a, ilm, L M veg, vs\nItse tehtyä lihamureketta a, L M\nPäivän pizza\nPäivän jälkiruoka"
+    }
+  ],
+  "10.Kerros": [
+    {
+      "name": "Hernekeitto \u0001 G",
+      "price": "15,50e",
+      "info": "Sis. salaattipöydän sekä pannukakut"
+    },
+    {
+      "name": "Broilerin paistileikettä ja chilimajoneesia Lm",
+      "price": "18,90e",
+      "info": "U"
+    },
+    {
+      "name": "Seesampaahdettua kirjolohta ja hollandaise kastiketta \u0001 G",
+      "price": "22,50e",
+      "info": "U"
+    },
+    {
+      "name": "Metsäsienikääryleitä, ruohosipuliperunamuusia ja sokeroitua puolukkaa \u0001 G",
+      "price": "18,90e",
+      "info": "U"
+    },
+    {
+      "name": "Business menu \u0001 G",
+      "price": "59,50e",
+      "info": "Businesslounaan menu, kaikki pöytään tarjoiltuna. kahvi / tee sisältyy menun hintaan.\nAlkuruokana:\nRiimihärkää, pikkelöityjä sieniä ja aiolia M , G\nPääruokana:\nTaimenta, kukkakaalipyreetä ja omenalla maustettua tummaa kastiketta L G\nJälkiruokana:\nPuolukkaparfait ja kinuskia L G"
+    }
+  ],
+  "La Torrefazione Lasipalatsi": [
+    {
+      "name": "Falafelsalaatti L G",
+      "price": "13,50e",
+      "info": "Falafeleja, punaherukkacremeä, kirsikkatomaattia, marinoitua punasipulia, kurkkua, mustapapu-kvinoasalaattia sekä passionhedelmävinegrettiä"
+    },
+    {
+      "name": "Paahtopaistisalaatti & katkarapua M G",
+      "price": "14,90e",
+      "info": "Katkarapuja, paahtopaistia, kirsikkatomaattia, kurkkua, marinoitua sipulia, hapankaalicreme ja dijon-vinegrettiä"
+    },
+    {
+      "name": "Sienipasta & no-chicken ve",
+      "price": "13,90e",
+      "info": "Paahdettuja sieniä ja pähkinöitä, no-chicken -soijaproteiinia, paahdettua sipulia, soija-pähkinäkastiketta ja kevätsipulia"
+    },
+    {
+      "name": "Pekonirisotto & salted caramel popcorn L G",
+      "price": "14,90e",
+      "info": "Kurkuma-maissirisottoa, paahdettua cheddar juusto, paahdettua pekonia, karamellisoitua sipulia, karamellipopcornia, tuoreita yrttejä ja yrtti öljyä"
+    },
+    {
+      "name": "Pinsaperjantai",
+      "price": "14,90e",
+      "info": "Sieni-tryffeli ve / salami-mozzarella L / kolme juustoa L sis. pähkinä\nTarjoillaan sivusalaatin kanssa"
+    }
+  ],
+  "Kiasma café": [
+    {
+      "name": "Punajuuri-omenakeitto V , G",
+      "price": "10,90e",
+      "info": "U"
+    },
+    {
+      "name": "Falafelit, manteliriisiä ja tzatzikia V , G",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Haukipihvit, kermaista ruohosipulikastiketta ja perunamuussia L G",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Paistettuja muikkuja, sitruunajogurttikastiketta ja pikkelöityä punasipulia L",
+      "price": "15,90e",
+      "info": "U"
+    }
+  ],
+  "Vltava": [
+    {
+      "name": "Rapeaksi paistettua paneroitua kampelaa L",
+      "price": "13,50e",
+      "info": "Tartarkastiketta, perunamuusia ja kauden kasviksia"
+    },
+    {
+      "name": "Paistettua maksaa ja ruskeaa kastiketta \u0001 G",
+      "price": "13,50e",
+      "info": "Perunamuusia, paistettua sipulia ja sokeroitua puolukkaa"
+    }
+  ],
+  "John Scott's Arkadia": [
+    {
+      "name": "Päivän keitto: hernekeitto L G pannukakkua L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Porsaanleike ja chilimajoneesi",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lindströminpihvit sienikastikkeella L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kesäkurpitsalasagne L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Perunamuusi L G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Antell Pik­kuar­ka­dia": [
+    {
+      "name": "Lounasbuffet",
+      "price": "13,50e",
+      "info": "Jauhelihatortilla G , L M\nKasvistortilla a, G , L\nTulista salsakeittoa a, G , L"
+    },
+    {
+      "name": "Jälkiruoka",
+      "price": "U",
+      "info": "Jogurttimoussea ja mangoa a, G , L\nKahvi / tee a, G , L"
+    }
+  ],
+  "Napule Pizzeria Napoletana": [
+    {
+      "name": " Margherita",
+      "price": "12,70e",
+      "info": "San marzano-tomaatti, fior di latte-mozzarella, pecorino romano-juusto, basilika, öljy"
+    },
+    {
+      "name": " Pizza vegetariana",
+      "price": "14e",
+      "info": "San marzano-tomaatti, fior di latte-mozzarella, pecorino romano-juusto, paprika, kesäkurpitsa, basilika, öljy"
+    },
+    {
+      "name": " Diavola",
+      "price": "14,90e",
+      "info": "San marzano-tomaatti, fior di latte-mozzarella, pecorino romano-juusto, mausteinen napolilainen salami, basilika, öljy"
+    },
+    {
+      "name": " Pizza prosciutto crudo",
+      "price": "  15,10e",
+      "info": "San marzano-tomaatti, fior di latte-mozzaella, pecorino romano-juusto, basilika, öljy ja parmankinkku"
+    },
+    {
+      "name": " Pizza al pollo",
+      "price": "13,80e",
+      "info": "Fior di latte-mozzarella, pecorino romano-juusto, kana, rucola, mayochup-kastike, basilika, öljy valkoinen pizza"
+    },
+    {
+      "name": " Pizza al ragù",
+      "price": "14,60e",
+      "info": "Fior di latte-mozzarella, pecorino romano-juusto, naudanliha-ragú, basilika, öljy"
+    },
+    {
+      "name": " Pizza ai 4 formaggi",
+      "price": "15,20e",
+      "info": "Fior di latte-mozzarella, pecorino romano-juusto, gorgonzola, basilika, öljy, parmesaanilastu, rucola valkoinen pizza"
+    },
+    {
+      "name": " Pasta al pollo L",
+      "price": "15,50e",
+      "info": "Kanapasta kermaisessa chili-valkosipuli-tomaattikastikkeessa"
+    },
+    {
+      "name": " Risotto ai fungi G",
+      "price": "16,00e",
+      "info": "Sienirisotto"
+    },
+    {
+      "name": " Insalata caesar L",
+      "price": "13,90e",
+      "info": "Talon caesar-salaatti kanalla"
+    },
+    {
+      "name": " Insalata di prosciutto VL",
+      "price": "14,50e",
+      "info": "Salaatti bufala mozzarellalla ja parmankinkulla"
+    },
+    {
+      "name": " Insalata di salmone L",
+      "price": "15,00e",
+      "info": "Kylmäsavulohisalaatti kananmunalla, vihreillä pavuilla, varhaisperunoilla ja marinoidulla sipulilla sekä leipälastuja ja smetanaa"
+    },
+    {
+      "name": "Tiramisù",
+      "price": "6,50e",
+      "info": "Talon tiramisu"
+    },
+    {
+      "name": "Lisätäyte pizzaan 2,50 €/kpl, san marzano-tomaatti pizzaan tai täytteen vaihto 1 €/kpl, pizzan puolitus 2",
+      "price": "U",
+      "info": "Extra topping for pizza 2,50 €, san marzano tomato to pizza / replace the topping 1 €, pizza cut in half 2"
+    },
+    {
+      "name": "Lounashintaan sisältyy salaattipöytä ja kahvi tai tee",
+      "price": "U",
+      "info": "Lunch includes salad bar and coffee or tea"
+    }
+  ],
+  "Social Burgerjoint Citycenter": [
+    {
+      "name": "Lounasburgeri: little korea",
+      "price": "12,30e",
+      "info": "U"
+    },
+    {
+      "name": "Classic: briossisämpylä, korean bbq-majoneesi, pikkelöity punakaali",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Smash: sämpylä, korean bbq-majoneesi, pikkelöity punakaali, kaksi",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Parmesaaniranskalaisilla",
+      "price": "13,90e",
+      "info": "U"
+    },
+    {
+      "name": "Kausiburgeri: castle hill",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Classic: briossisämpylä, cowboy butter-majoneesi, pekoni",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Smash: sämpylä, cowboy butter-majoneesi, pekoni, kaksi",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Biáng! Citycenter": [
+    {
+      "name": "Lounasbuffet",
+      "price": "14,90e",
+      "info": "U"
+    }
+  ],
+  "UniCafe Kaivopiha": [
+    {
+      "name": "Kaivopiha vegaani",
+      "price": "U",
+      "info": "Luomutofua ja pinaattia palak paneer G [s] ve"
+    },
+    {
+      "name": "Kaivopiha vegaani",
+      "price": "U",
+      "info": "Kasvisjalapenonugetteja ja paahdettua seesamkastiketta G ve"
+    },
+    {
+      "name": "Kaivopiha päivän lounas",
+      "price": "U",
+      "info": "Uunimakkaraa, sinappikastiketta G L [s"
+    },
+    {
+      "name": "Makeasti",
+      "price": "U",
+      "info": "Suklaamousse G ve"
+    },
+    {
+      "name": "Kaivopiha vegaaninen salaattibaari",
+      "price": "U",
+      "info": "Vegaaninen salaattibaari 4, 25 / 6, 45 / 7, 90 / 9, 60, tarjolla linjastossa 1\n[S] ve"
+    }
+  ],
+  "Woolshed Helsinki": [
+    {
+      "name": "RUMP STEAK 12,90€",
+      "price": "U",
+      "info": "150g aged New Zealand rump steak. Served with fries, salad & red wine sauce."
+    },
+    {
+      "name": "FRIED CHICKEN BURGER G 12,90€",
+      "price": "U",
+      "info": "Breaded chicken, cheddar cheese, Cajun mayo, lettuce & tomato. Served with fries & aioli dip."
+    },
+    {
+      "name": "VEGE HALLOUMI BURGER G 12,90€",
+      "price": "U",
+      "info": "Vege bean patty, halloumi cheese, avocado aioli, lettuce & tomato. Served with fries & aioli dip."
+    },
+    {
+      "name": "CLASSIC BEEF BURGER G 12,90€",
+      "price": "U",
+      "info": "180g Angus beef patty, Cheddar, fried onions, pickle, mayo, lettuce, tomato. Served with fries & aioli dip."
+    },
+    {
+      "name": "HALLOUMI SALAD 12,90€",
+      "price": "U",
+      "info": "Lettuce, fried halloumi, cucumber, cherry tomatoes, capsicum, pickled red onion, avocado aioli & citrus dressing."
+    },
+    {
+      "name": "CHICKEN SALAD 12,90€",
+      "price": "U",
+      "info": "Grilled chicken, lettuce, cherry tomatoes, cucumber, grapes, walnuts & honey-mustard dressing."
+    }
+  ],
+  "Kiila": [
+    {
+      "name": "Yön yli haudutettua naudanniskaa ja röstiperunaa",
+      "price": "13,50e",
+      "info": "Pikkelöityjä kesäkasviksia, pippurikermakastiketta L G"
+    },
+    {
+      "name": "Paahdettua lohta ja perunamuhennosta",
+      "price": "16,90e",
+      "info": "Pikkelöityä kukkakaalia, ruohosipuli-hollandaisea L G"
+    },
+    {
+      "name": "Tryffelirisottoa",
+      "price": "14,90e",
+      "info": "Mehustettua tomaattia ja juureslastuja L G"
+    },
+    {
+      "name": "Grillattu häränsisäfileepihvi 180g ja mustatryffelirisottoa",
+      "price": "19,90e",
+      "info": "Pikkelöityä kukkakaalia, punaviinikastiketta L G"
+    },
+    {
+      "name": "Punajuuri falafelejä ja punaista kasviscurrya",
+      "price": "14,90e",
+      "info": "Jasmin riisiä, pikkelöityä kukkakaalia veg, G sis pähkinää"
+    },
+    {
+      "name": "Tomaatti-basilikakeitto veg, G",
+      "price": "9,90e",
+      "info": "Lohi-avokadosalaatti\n14,90 €\nPaahdettua lohta, avokadoa, vihersalaattia, sitrus vinegretteä, punaista linssiä, cantaloupemelonia, pikkelöityä punasipulia, friteerattua lehtikaalia, kirsikkatomaattia, timjamiporkkanaa, viinirypäleitä, paahdettua pähkinää ja avokado-limefraichea L G sis.pähkinä"
+    },
+    {
+      "name": "Jokirapu-ananassalaatti",
+      "price": "14,90e",
+      "info": "Jokirapuja, ananas-chilisalsaa, vihersalaattia, sitrus vinegretteä, punaista linssiä, pikkelöityä punasipulia, kirsikkatomaattia, timjamiporkkanaa, viinirypäleitä, paahdettua pähkinämurua ja avokado-limefraichea L G sis.pähkinä"
+    },
+    {
+      "name": "Kana-halloumisalaatti",
+      "price": "14,90e",
+      "info": "Paneroitua kananpojan paistileikettä, friteerattua halloumia, vihersalaattia, sitrus vinegretteä, punaista linssiä, ananas-chilisalsaa, pikkelöityä punasipulia, timjamiporkkanaa, viinirypäleitä, kirsikkatomaattia, paahdettua pähkinää ja curryfraichea VL G sis.pähkinä"
+    },
+    {
+      "name": "Punajuurifalafel-avokadosalaatti",
+      "price": "14,90e",
+      "info": "Punajuurifalafeleja, avokadoa, vihersalaattia, sitrus vinegretteä, punaista linssiä, cantaloupemelonia, pikkelöityä punasipulia, timjamiporkkanaa, viinirypäleitä, kirsikkatomaattia, paahdettua pähkinää ja yrtti-valkosipulihummusta veg, G sis.pähkinä"
+    },
+    {
+      "name": "Caesarsalaatti",
+      "price": "14,90e",
+      "info": "Jokirapu\nPaahdettua lohta\nPaneroitua kananpojan paistileikettä\nRomainesalaattia, kiilan caesarkastiketta,\nKirsikkatomaattia, parmesaanijuustoa ja focaccia krutonkeja"
+    },
+    {
+      "name": "Härkäburger",
+      "price": "15,90e",
+      "info": "Paahdettua aiolia, cheddarjuustoa, jääsalaattia, pikkelöityä punasipulia ja tomaattia L"
+    },
+    {
+      "name": "Crispy chicken burger",
+      "price": "15,90e",
+      "info": "Harissa-paprikamajoneesia, jääsalaattia, pikkelöityä punasipulia ja tomaattia L"
+    },
+    {
+      "name": "Kasvis-halloumi burger",
+      "price": "15,90e",
+      "info": "Friteerattua paprikaa ja kesäkurpitsaa, pariloitua\nHalloumia, lime-jalapenomajoneesia, jääsalaattia,\nPikkelöityä punasipulia ja tomaattia L"
+    }
+  ],
+  "Amos Café": [
+    {
+      "name": "Lasagne al Forno L",
+      "price": "13,50e",
+      "info": "Kuuma, kupliva uunissa paistettu lasagne, valmistettu jauhelihasta, béchamel-kastikkeesta, silkkisestä pastasta ja päällä sulanutta mozzarella-juustoa!"
+    },
+    {
+      "name": "Pannulla paistettu kananrintafilee L",
+      "price": "13,50e",
+      "info": "Kultainen, mehevä kana, joka on kuorrutettu vastustamattomalla pannukastikkeella. Tarjoillaan bulgurin kanssa."
+    },
+    {
+      "name": "Punajuuririsotto L G V",
+      "price": "13,50e",
+      "info": "Kermainen ja värikäs risotto, viimeistelty parmesan-juustolla."
+    },
+    {
+      "name": "Lounaaseen kuuluu salaatti, kahvi sekä jälkiruoka.",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Sandro Kortteli": [
+    {
+      "name": "Naudanlihapulla tagine L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kikherne tagine perunalla v, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Sandron riisi v, G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Ilves Ravintola": [
+    {
+      "name": "Kasvislasagnette",
+      "price": "11,30e",
+      "info": "U"
+    },
+    {
+      "name": "Lasagne",
+      "price": "14,50e",
+      "info": "U"
+    }
+  ],
+  "Bistro Manu": [
+    {
+      "name": "Manun lounasbuffet",
+      "price": "15,00e",
+      "info": "Hernekeittoa\nPannukakkua, kermavaahtoa ja mansikkahilloa pyydettäessä gluteeniton ohukainen\nPaahdettua broilerin koipea, kookos-currykastiketta M G\nLinssi-kasviscurrya ve, G\nVihannesriisiä ve, G"
+    }
+  ],
+  "Deliberi Keskuskatu": [
+    {
+      "name": "Paistettua taimenta ja rakuunaperunaa, sitruuna-valkoviinikastiketta ja härkäpapu-retiisisalaattia",
+      "price": "13,50e",
+      "info": "Fried trout with tarragon potatoes, lemon and white wine sauce and fava bean and radish salad L G"
+    },
+    {
+      "name": "Myskikurpitsakeittoa",
+      "price": "9,50e",
+      "info": "Butternut squash soup veg, G"
+    },
+    {
+      "name": "Paahdettua lohta ja parmesankrossiperunaa, sitruuna-tillismetanaa ja mehustettua tomaatti-mozzarellasalaattia",
+      "price": "15,50e",
+      "info": "Roasted salmon with parmesan seasoned smashed potatoes, lemon and dill sour cream and juiced tomato and mozzarella salad L G"
+    },
+    {
+      "name": "Kantarellirisottoa, tryffelifraichea ja pikkelöityä raitajuurta",
+      "price": "13,50e",
+      "info": "Chanterelle risotto, truffle fraiche and pickled chioggia beet L G"
+    },
+    {
+      "name": "Pariloitu naudan ulkofileepihvi ja parmesankrossiperunaa, piparjuurifraichea ja mehustettua tomaatti-mozzarellasalaattia",
+      "price": "15,50e",
+      "info": "Grilled beef sirloin steak with parmesan seasoned smashed potatoes, horseradish fraiche and juiced tomato and mozzarella salad L G"
+    },
+    {
+      "name": "Kana-fetasalaatti ja puolukkavinegrettiä",
+      "price": "13,50e",
+      "info": "Paneroitua kanaa, puolukkavinegrettiä, fetamurua, romainesalaattia, kurkkusuikaletta, kirsikkatomaatteja, kvinoaa, vesimelonia ja ruohosipulia\nBreaded chicken or roasted salmon, lingonberry vinaigrette, crushed feta cheese, romaine salad, cucumber stripes, cherry tomatoes, quinoa, watermelon and chives L G"
+    },
+    {
+      "name": "Lohi-fetasalaatti ja puolukkavinegrettiä",
+      "price": "13,50e",
+      "info": "Paahdettua lohta, puolukkavinegrettiä, fetamurua, romainesalaattia, kurkkusuikaletta, kirsikkatomaatteja, kvinoaa, vesimelonia ja ruohosipulia\nBreaded chicken or roasted salmon, lingonberry vinaigrette, crushed feta cheese, romaine salad, crispy onion, cucumber stripes, cherry tomatoes, quinoa, watermelon and chives L G"
+    }
+  ],
+  "La Famiglia": [
+    {
+      "name": "La famiglian jauhelihalasagne VL",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Sesongin risotto \u0001 G",
+      "price": "13,50e",
+      "info": "3.9.–12.11. Risotto tateista ja portobellosta"
+    },
+    {
+      "name": "Metsästäjän porsasta \u0001 G",
+      "price": "15,50e",
+      "info": "Porsaan ulkofileeleike, kermaista metsäsienikastiketta ja paahdettua perunaa"
+    },
+    {
+      "name": "Viikon pizza VL",
+      "price": "14,90e",
+      "info": "Basilikalla marinoitua kananrintaa, tuoretta tomaattia, pikkelöityä shalottisipulia, tomaattikastiketta ja fior di latte -mozzarellaa"
+    },
+    {
+      "name": "Pizza kahdella täytteellä",
+      "price": "14,90e",
+      "info": "Pizza saatavana myös gluteenittomana +2 €\nPalvikinkku, mozzarella di bufala, tomaatti, kana, ilmakuivattu kinkku, saunapalvikinkku, mieto/tulinen salami, jättikatkarapu, marinoitu kesäkurpitsa, artisokka, fenkoli tai paprika, tuplajuusto, gorgonzola, oliivi, pesto pä, tuore tomaatti, portobello tai pikkelöity chili. lisäksi tomaattikastiketta ja fior di latte -mozzarellaa"
+    },
+    {
+      "name": "Lounassalaatti",
+      "price": "13,50e",
+      "info": "Caesarsalaatti kanalla L katkaravuilla L tai mozzarella di bufalalla.\nLisäksi romainesalaattia, caesarkastiketta, parmesanjuustoa ja krutonkeja"
+    }
+  ],
+  "OR Restaurant & Bar": [
+    {
+      "name": "Lohikeittoa ja saaristolaisleipää \u0001 G",
+      "price": "17,00e",
+      "info": "Saatavilla myös pienemmässä koossa 15"
+    },
+    {
+      "name": "Perinteinen caesar-salaatti L",
+      "price": "15,00e",
+      "info": "Katkaravuilla/kanalla +4"
+    },
+    {
+      "name": "Punajuuririsottoa, saksanpähkinää ja salottisipulia \u0001 G",
+      "price": "16,00e",
+      "info": "U"
+    },
+    {
+      "name": "Turskaa, kaalia ja kukkakaalipyreetä \u0001 G",
+      "price": "21,00e",
+      "info": "U"
+    },
+    {
+      "name": "Vasikkawallenberg, perunamuusia ja herneitä \u0001 G",
+      "price": "19,00e",
+      "info": "U"
+    },
+    {
+      "name": "Päivän jäätelö/sorbetti",
+      "price": "7,00e",
+      "info": "U"
+    }
+  ],
+  "Ateneum Bistro": [
+    {
+      "name": "Lounasbuffet",
+      "price": "15,50e",
+      "info": "U"
+    },
+    {
+      "name": "Kukkakaalikeitto V G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Uuniperunaa V G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Piparjuurella maustettu savutofutäyte V G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Curry-kanatäyte L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Buffet ilman keittoa",
+      "price": "14,50e",
+      "info": "U"
+    },
+    {
+      "name": "Lounaskeitto",
+      "price": "10,90e",
+      "info": "U"
+    },
+    {
+      "name": "Sahramilla maustettua sinisimpukkarisottoa L G",
+      "price": "15,90e",
+      "info": "U"
+    }
+  ],
+  "Food & Co WTC": [
+    {
+      "name": "Hernesosekeittoa a, G ilm, L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Stroganoffia *, a, G L vs",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Talon kukkakaali-manchegopihvejä a, ilm, L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lime-korianteriranskankermaa a, G ilm, L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua kaalia, herkkusieniä ja tomaattia G L M veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kasvisriisiä G L M veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pannukakkua a, L",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "La Torrefazione Aleksanterinkatu": [
+    {
+      "name": "Kreikkalainen salaatti L G",
+      "price": "13,50e",
+      "info": "Fetaa, kurkkua, kirsikkatomaattia, kalamata-oliivia, punasipulia ja rucolaa"
+    },
+    {
+      "name": "Pasta pomodoro L",
+      "price": "13,90e",
+      "info": "Marinara-kastiketta, basilikaa, semikuivattua kirsikkatomaattia ja parmesaania"
+    },
+    {
+      "name": "Sahramirisotto & naudanposkirilletteä L G",
+      "price": "14,90e",
+      "info": "Sahramilientä, kotimaista naudanposkea ja ruohosipulia"
+    },
+    {
+      "name": "Keittiömestarin suositus L",
+      "price": "16,90e",
+      "info": "Paahdettua lohta, perunapyreetä, neulapapuja ja antiboisekastiketta"
+    },
+    {
+      "name": "Pinsaperjantai",
+      "price": "14,90e",
+      "info": "Sieni-tryffeli ve / salami-mozzarella L / kolme juustoa L sis. pähkinä\nTarjoillaan sivusalaatin kanssa"
+    }
+  ],
+  "Finnjävel Sali": [
+    {
+      "name": "LISÄKSI",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Leipävalikoima 6,90€",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Finnjävelin juustot 10,50€",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Osakuntabaari": [
+    {
+      "name": "Paneroitu lohipihvi VL",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Marokko kasvispihvi ️ v G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Myös take away",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Dylan Marmoripiha": [
+    {
+      "name": "Salaattibuffet, keitto ja jälkkäri",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Hernekeittoa, sipulia ja sinappia, sekä halutessasi lisähöysteeksi kinkkua G veg",
+      "price": "9,90e",
+      "info": "U"
+    },
+    {
+      "name": "Rapeaksi paistettua porsaanleikettä ja viherpippurimajoneesia M",
+      "price": "14,90e",
+      "info": "U"
+    },
+    {
+      "name": "Grillattua kananpoikaa, fetaa ja viherpippurimajoneesia VL G",
+      "price": "14,90e",
+      "info": "U"
+    },
+    {
+      "name": "Yrttipaahdettua nyhtöhernettä, munakoisoa tomaattikastikkeessa G veg",
+      "price": "14,90e",
+      "info": "U"
+    },
+    {
+      "name": "Maustepaahdettua perunaa ja ripaus lehtiyrttejä G veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pannukakkua, hilloa ja kermavaahtoa L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Vegaanista ja gluteenitonta pannukakkua ja hilloa G veg",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Food & Co Oodi": [
+    {
+      "name": "Päivän lounas arkisin klo",
+      "price": "11-14,30 hintaan 13,50e",
+      "info": "Hernesosekeittoa a, G ilm, L\nJuurespyöryköitä *, a, G ilm, L M\nYrttikermaviilikastiketta a, G ilm, L\nBroileria madras chicken *, a, G ilm, L vs\nChiliriisiä G L M veg\nPaahdettua maissintähkää G L M veg"
+    }
+  ],
+  "Vapiano Mikonkatu": [
+    {
+      "name": "Insalata Cesare kanalla tai tofulla, L 13,50 €",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Insalata Quinoa kanalla tai tofulla L V 13,50 €",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pasta Crema di Pollo, L 13,50 €",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pasta Crema di Avocado L 13,50 €",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Risotto Scampi e Spinachi L 13,50 €",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pizza Prosciutto e Funghi 13,50 €",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pääruoka + pikkukeitto tai pieni salaatti 16,40 €",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kahvi, vesi ja ciabatta kuuluu lounaan hintaan.",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Morrison's Helsinki": [
+    {
+      "name": "Kanatortillat",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Cheddarkastikkeella",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Aurajuustoburger G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Naudan täyslihapihvi, aurajuustoa",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kurkkumajoneesia",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Salaattia, tomaattia",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Ja marinoitua punasipulia",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kana-aurajuustopasta",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua lohta L G",
+      "price": "15,50e",
+      "info": "U"
+    },
+    {
+      "name": "Hollandaisekastikkeella",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pariloitua kanaa tai",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paneroitu porsaanleike",
+      "price": "14,50e",
+      "info": "U"
+    },
+    {
+      "name": "Valitsemallasi kastikkeella",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kantarelli L | choron G | maustevoi L | hollandaise G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Viher-hedelmäsalaatti L G",
+      "price": "14,50e",
+      "info": "U"
+    },
+    {
+      "name": "Salaattisekoitus, kurkku, tomaatti, paprika, marinoitu punasipuli",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Hedelmiä ja talon salaatinkastiketta",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Valitse täyte: kana | vuohenjuusto | halloumi",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lehtipihvi",
+      "price": "19,50e",
+      "info": "U"
+    },
+    {
+      "name": "Naudan ulkofileetä ranskalaisilla ja maustevoilla",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Burgeri ja leike saatavana gluteenittomana",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kysy lisää gluteenittomista, kasvis ja vegaanisista vaihtoehdoista",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Don Corleone": [
+    {
+      "name": "Insalata italiana",
+      "price": "13,50e",
+      "info": "Mozzarellasalaatti"
+    },
+    {
+      "name": "Spaghetti alla carbonara",
+      "price": "13,50e",
+      "info": "Spagettia, pekoni, kananmuna parmesanikastikkeella"
+    },
+    {
+      "name": "Penne arrabbiata",
+      "price": "14,20e",
+      "info": "Penne pastaa. chili, valkosipuli basilika- tomaattikastikkeella"
+    },
+    {
+      "name": "Cannelloni al forno",
+      "price": "14,80e",
+      "info": "Pinaatti- ricotta cannelloneja kermaisella tomaattikastikkeella"
+    },
+    {
+      "name": "Pollo ai peperoni",
+      "price": "16,90e",
+      "info": "Grillattua broilerin rintafilettä kermaisella paprikakastikkeella"
+    },
+    {
+      "name": "Salmone ai arancia",
+      "price": "17,90e",
+      "info": "Grillattua merilohta kermaisella appelsiinikastikkeella"
+    },
+    {
+      "name": "Fegato al salvia",
+      "price": "17,90e",
+      "info": "Salvia voissa paistettua naudan maksaa"
+    }
+  ],
+  "Santa Fe": [
+    {
+      "name": "Lounaan hintaan sisältyy salaattipöytä sekä kahvi / tee.  ",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "KEBAB L G 13,50€",
+      "price": "U",
+      "info": "Lempeän tulista tomaattikastiketta, limeriisiä ja ranskankermaa"
+    },
+    {
+      "name": "GRILLATTUA KANAA L G 14,50€",
+      "price": "U",
+      "info": "Ranskalaisilla ja valitsemallasi kastikkeella: Pippurikastike L G | Bearnaisekastike G | BBQ-kastike L G"
+    },
+    {
+      "name": "KREIKKALAINEN SALAATTI VL G 14,50€",
+      "price": "U",
+      "info": "Salaattia, fetaa, kirsikkatomaatteja, kurkkua, punasipulia, paprikaa, oliiveja ja yrttiöljyä. Valitse täyte: Kana | Lohi +1€"
+    },
+    {
+      "name": "TEXAS BURGER G 14,50€",
+      "price": "U",
+      "info": "Naudan täyslihapihvi, marinoitua punasipulia, salaattia, tomaattia, pekonia, aiolia ja cheddarkastiketta. Kaveriksi ranskalaisia perunoita."
+    },
+    {
+      "name": "PAISTETTUA LOHTA G 15,50€",
+      "price": "U",
+      "info": "Lohkoperunoita, tomaattisalaattia ja avokado-jogurttikastiketta"
+    },
+    {
+      "name": "PEPPER STEAK L G 19,50€",
+      "price": "U",
+      "info": "150g ulkofileepihvi, pippurikastiketta, lohkoperunoita ja lämpimiä kasviksia"
+    },
+    {
+      "name": "Vaihda lisuke! Paistetut kasvikset tai bataattiranskalaiset 2,00€",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Useimmat annokset saatavana gluteenittomana. Kysy lisää gluteenittomista, kasvis ja vegaanisista vaihtoehdoista.",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Bruuveri": [
+    {
+      "name": "Hernekeittoa saunapalvikyljellä M G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Juustomakaronia ja savuchilikassleria",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lohta ja tillihollandaisea VL G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Herkkusieni-parsakaalipaistosta M G v",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Keitettyä perunaa, riisiä ja lämpimiä kasviksia",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Pauli's Pizza & Grill": [
+    {
+      "name": "Lounasbuffet",
+      "price": "14,90e",
+      "info": "Parmesaanikanaa L G ja yrttiperunalohkot ve, G\nTofu-kukkakaalikastike ve, G\nPizzalajitelma"
+    }
+  ],
+  "Ravintola Caverna": [
+    {
+      "name": "Kalaleike, tartar-kastike G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kana-pestokastike L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lammas pyörykät L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Possu-herkkusienikastike L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Uunikasvikset L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Persiljaporkkanat M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Wokkikasvikset M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Sianlihan kylkiluupaisti M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Härkää soijakastikkeessa M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Punacurry kanaa M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Tofua ja salottisipulia M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Höyrytettyä kalaa M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Friteerattua kanaa M",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kevätrullia M",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Friteerattuja sipulirenkaita M",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettuja kasviksia M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua riisiä, kasviksia ja kananmunaa M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua nuudelia ja kasviksia M",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Katkarapulastu M",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "KEITOT:",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pho",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "PIZZAT:",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Liha",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kasvis",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "SUSHILAJITELMA",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "SALAATTIPÖYTÄ",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "JÄLKIRUOKALAJITELMA",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Runsas lounasbuffeemme maksaa 16,90€. Muutokset ruokalistaan ovat mahdollisia.",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Sori Taproom": [
+    {
+      "name": "Ei lounasta",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Ravintola Aallon Huippu": [
+    {
+      "name": "Buffet menu aallon huippu",
+      "price": "U",
+      "info": "Talon porkkana-lehtikaalipihvejä a, ilm, L M veg\nVegaanista pestoa G L M veg\nBroileria ja jogurttia madras chicken a, G L vs\nBasmatia G L M veg\nSatokauden kasviksia G L M veg\nOmenastrudelia a, L\nVaniljakastiketta a, G L"
+    },
+    {
+      "name": "Kaurainen ciabatta a, L veg",
+      "price": "U",
+      "info": "Kurpitsansiemenfocaccia a, L veg"
+    }
+  ],
+  "Linkosuo Alvar": [
+    {
+      "name": "Härkälasagnea L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Seitiä slaavilaisessa kastikkeessa L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Siemenpyöryköita & paprikamajoneesia veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Punajuurikeittoa & kurpitsansiemenöljyä veg, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kaura-omenapaistosta & vaniljakastiketta L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Chef’s annos grillistä; porsaan lehtipihvi lohkoperunoilla & bearnaisea L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Beef lasagna L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Saithe slavic style L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Seed rissole & sweet pepper mayonnaise veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Beetroot soup & pumpkin oil veg, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Apple & oat bake & vanilla sauce L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Chef’s portion from the grill; pork minute steak with potato wedges & bearnaise L G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Tapas BarCelona": [
+    {
+      "name": "Lounasbuffet",
+      "price": "13,50e",
+      "info": "Salaattipöytä\nPaneroitua seitiä, tartarkastiketta ja perunamuusia L\nPaahdettua paprikakeittoa L G"
+    }
+  ],
+  "Belge": [
+    {
+      "name": "Kookoksinen vihreä curry, belugalinssejä ja riisiä \u0001 G",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Ylikypsää häränrintaa, vihannesstoemp ja piparjuurikastiketta \u0001 G",
+      "price": "13,50e",
+      "info": "U"
+    }
+  ],
+  "Robert's Coffee Bubbles Corner": [
+    {
+      "name": "Puurobuffet klo 8 -10.30 5,50 € M",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lounasbuffa",
+      "price": "14,50e",
+      "info": "U"
+    },
+    {
+      "name": "Runsas salaattipöytä",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Päivän keitto: Naudanlihagulassikeittoa M G smetanaa L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Couscousilla, kasviksilla ja fetajuustolla täytetyt paprikat L tsatsikia L G paahdettua perunaa ja kasviksia M , G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Toscapiirakkaa L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Puurobuffamme klo 8-10.30 sisältää päivän puuron, marjoja ja muita herkullisia lisukkeita 5,50€.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lounasbuffamme hinta 14,50 sisältäen kaikki lounasbuffamme tuotteet sekä kahvin/teen",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "La Torrefazione Fratello": [
+    {
+      "name": "Paahdettu vuohenjuustosalaatti G",
+      "price": "13,50e",
+      "info": "Paahdettuja viinirypäleitä ja punajuurta, kirsikkatomaattia, paahdettua saksanpähkinää ja vinegrettiä"
+    },
+    {
+      "name": "Pasta carbonara L",
+      "price": "13,90e",
+      "info": "Rapeaa pekonia fin, parmesaani-kananmunacremeä, rucolasalaattia ja parmesaania"
+    },
+    {
+      "name": "Tomaatti-mozzarellarisotto L G",
+      "price": "14,90e",
+      "info": "Grillattua kirsikkatomaattia, marinoitua mozzarellaa ja rapeaa parmesaania"
+    },
+    {
+      "name": "Paahdettua kukkakaalia & vihreää tahinia ve",
+      "price": "15,90e",
+      "info": "Masalapaahdettua kukkakaalia, vihreää yrttitahinia, ajvar-kastiketta, bataatti-cevicheä, rapeaa sipulia ja bulgursalaattia"
+    },
+    {
+      "name": "Pinsaperjantai",
+      "price": "14,90e",
+      "info": "Sieni-tryffeli ve / salami-mozzarella L / kolme juustoa L sis. pähkinä\nTarjoillaan sivusalaatin kanssa"
+    }
+  ],
+  "Hobo Helsinki": [
+    {
+      "name": "Hunter’s steak: minced beef steak, mushroom sauce & mashed potatoes",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Halloumi-beetroot steak, mushroom sauce & mashed potatoes",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Arthur": [
+    {
+      "name": "Parsakaali-juustokeitto | broccoli soup with cheese L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kanaa satay-kastikkeessa | satay chicken L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Basmatiriisiä | basmati rice",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kreikkalaista kasvisorzoa | greek vegetable orzo L",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Finlandia Cafe & Wine": [
+    {
+      "name": "Lammaskaalikeitto   L G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Factory Kamppi": [
+    {
+      "name": "Hernekeittoa M + G pilkottua sipulia M + G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Factoryn italialaiset lihapullat kapris-viikunakastikkeella L G vs rosmariini paahdetut perunat ve + G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Sitruuna-kanarisotto parmesan hunnulla VL G vs",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Mausteinen pepperoni-paprikapasta VL vs",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Herkkusieniä ja paistettua tofua pinaatti-kaurakermakastikkeella ve + G vs",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Factoryn letut L oman keittiön mansikkahillo ve + G vaniljavaahto L G jäätelö L G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "UniCafe Porthania": [
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Vegejauhispyöryköitä &, karamellisoitua sipulikastiketta\nVe"
+    },
+    {
+      "name": "Päivän lounas",
+      "price": "U",
+      "info": "Kalapuikot, kermaviilikastiketta L [s"
+    },
+    {
+      "name": "Päivän lounas",
+      "price": "U",
+      "info": "Limonello broileria G L [s"
+    },
+    {
+      "name": "Lisuke",
+      "price": "U",
+      "info": "Spaghettia\n[S] ve"
+    },
+    {
+      "name": "Päivän lounas",
+      "price": "U",
+      "info": "Chili-katkarapusalaattia G L M [s"
+    }
+  ],
+  "Toscanini": [
+    {
+      "name": "Tonnikalatartar ja avocadomoussea L G",
+      "price": "10e",
+      "info": "U"
+    },
+    {
+      "name": "“Melanzane alla parmigiana” L G",
+      "price": "10e",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua lohta, mustajuuripyreetä ja kantarellikastiketta L G",
+      "price": "23e",
+      "info": "U"
+    },
+    {
+      "name": "Helmikananrintaa, paahdettua perunaa ja arrabiata -kastiketta L G",
+      "price": "23e",
+      "info": "U"
+    },
+    {
+      "name": "Risottoa, kuivattua tomaattia, vaahdotettua mozzarellaa ja basilikaa G",
+      "price": "19e",
+      "info": "U"
+    },
+    {
+      "name": "Suklaa semifreddo, mustikkamoussea ja marjoja L G vegaaninen",
+      "price": "10e",
+      "info": "U"
+    },
+    {
+      "name": "Tiramisú",
+      "price": "10e",
+      "info": "U"
+    },
+    {
+      "name": "Lounasmenu 2 ruokalajia 28€, 3 ruokalajia 35€",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Sodexo Sisäpiha": [
+    {
+      "name": "Lohikeittoa ja talon ruisleipää L",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Kasvis-soijalasagnea ja rucolaa L",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Talon pannukakkua ja hilloa L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kahvia / teetä G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "UniCafe Metsätalo": [
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Pyttipannu peas of heaven, kurkkumajoneesi G ve"
+    },
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Punajuuripyöryköitä ja vaaleaa balsamicokastiketta G ve"
+    },
+    {
+      "name": "Päivän lounas",
+      "price": "U",
+      "info": "Pestosilakat G L"
+    },
+    {
+      "name": "Lisuke",
+      "price": "U",
+      "info": "Gluteiinitonta kauraa G ve"
+    },
+    {
+      "name": "Makeasti",
+      "price": "U",
+      "info": "Marjakiisseliä, kauravaahto G ve"
+    }
+  ],
+  "Pamela": [
+    {
+      "name": "Rapea tofu",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Avotulella paistettua lohta",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua kanaa hiiligrillistä",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Annosten kanssa tarjoillaan habanero-tomaattikastiketta, paahdettua perunaa, hummusta ja vihersalaattia",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Döner harjun kebab",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Vege- tai lihakebabia, tomaatti-harissakastiketta, paahdettua perunaa, hummusta ja vihersalaattia 14,9",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "UniCafe Rotunda": [
+    {
+      "name": "Päivän lounas",
+      "price": "U",
+      "info": "Juustoista juuressosekeittoa L"
+    },
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Pesto beanit bowl G [s] ve"
+    },
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Avocado-lehtikaalitoast\nVe"
+    },
+    {
+      "name": "Päivän lounas",
+      "price": "U",
+      "info": "Uunifeta toast VL"
+    }
+  ],
+  "Ravintola Laurus": [
+    {
+      "name": "Chilipaahdettua kurpitsaa, mustapapuquinoaa, chilistä avocadokastiketta ja paahdettuja cashewpähkinöitä G M",
+      "price": "2,95 / 7,30 / 10,40e",
+      "info": "U"
+    },
+    {
+      "name": "Papu-quorn curry, basmatiriisiä ja jogurttia G L",
+      "price": "2,95 / 7,30 / 10,40e",
+      "info": "U"
+    },
+    {
+      "name": "Broilerinjauheliha-nachopelti G L",
+      "price": "2,95 / 7,30 / 10,40e",
+      "info": "U"
+    },
+    {
+      "name": "Kahvila civis: luomu jalotofu ja avocado poke bowl G M",
+      "price": "5,00 / 8,80 / 10,40e",
+      "info": "U"
+    },
+    {
+      "name": "Kahvila civis: kevätsipuli-perunasosekeittoa, fetajuustoa ja härkäpapuja L",
+      "price": "2,95 / 6,75e",
+      "info": "U"
+    },
+    {
+      "name": "Kahvila civis: tomaatti-mozzarella lounaspatonki VL",
+      "price": "2,95 / 5,70e",
+      "info": "U"
+    }
+  ],
+  "Sodexo Helsingin yliopisto Päärakennus": [
+    {
+      "name": "Chilipaahdettua kurpitsaa, mustapapuquinoaa, chilistä avocadokastiketta ja paahdettuja cashewpähkinöitä G M",
+      "price": "2,95 / 7,30 / 10,40e",
+      "info": "U"
+    },
+    {
+      "name": "Papu-quorn curry, basmatiriisiä ja jogurttia G L",
+      "price": "2,95 / 7,30 / 10,40e",
+      "info": "U"
+    },
+    {
+      "name": "Broilerinjauheliha-nachopelti G L",
+      "price": "2,95 / 7,30 / 10,40e",
+      "info": "U"
+    },
+    {
+      "name": "Kahvila civis: luomu jalotofu ja avocado poke bowl G M",
+      "price": "5,00 / 8,80 / 10,40e",
+      "info": "U"
+    },
+    {
+      "name": "Kahvila civis: kevätsipuli-perunasosekeittoa, fetajuustoa ja härkäpapuja L",
+      "price": "2,95 / 6,75e",
+      "info": "U"
+    },
+    {
+      "name": "Kahvila civis: tomaatti-mozzarella lounaspatonki VL",
+      "price": "2,95 / 5,70e",
+      "info": "U"
+    }
+  ],
+  "Ravintola MyStuu": [
+    {
+      "name": "RIISTAKÄRISTYS / KASVISKÄRISTYS 14€",
+      "price": "U",
+      "info": "Perunamuusi, puolukka ja maustekurkku"
+    },
+    {
+      "name": "TALON KASVIS FLAMMKUCHEN 14€",
+      "price": "U",
+      "info": "Creme fraiche, kesäkurpitsa, Gruyère, kuivattu aprikoosi, rucola ja pikkelöity punasipuli"
+    },
+    {
+      "name": "Lounaan hinta 14€",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Sisältää pienen alkusalaatin ja suodatinkahvin.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Tiistaista torstaihin lounaalla saatavilla myös PANEROITU SCHNITZEL ranskalaisilla 17 € & MYSTUU-SALAATTI 14€",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lounaan yhteydessä pieni viini tai olut 5€",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Erikoiskahvit 2€",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "UniCafe Soc&Kom": [
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Karibian kasvispihvejä & mango-ananassalsaa G [s] ve"
+    },
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Luomutofua ja pinaattia palak paneer G [s] ve"
+    },
+    {
+      "name": "Päivän lounas",
+      "price": "U",
+      "info": "Lohilasagnea L [s"
+    },
+    {
+      "name": "Makeasti",
+      "price": "U",
+      "info": "Kaura-omenapaistos kanelivaahdolla\nVe"
+    }
+  ],
+  "Pompier Espa": [
+    {
+      "name": "Runsas salaattipöytä sekä kermaista kirjolohikeittoa ja tilli-ruohosipuligremolataa",
+      "price": "15e",
+      "info": "U"
+    },
+    {
+      "name": "Kaikki herkut",
+      "price": "25e",
+      "info": "U"
+    },
+    {
+      "name": "Take away -salaatit: pompierin herkku-bowl: siitakesieni-kukkakaali tai caesar kananpojalla",
+      "price": "13e",
+      "info": "U"
+    }
+  ],
+  "il Siciliano Espa": [],
+  "Antell Arkadia": [
+    {
+      "name": "Lounasbuffet",
+      "price": "U",
+      "info": "Kanapyöryköitä a, G , L M\nLempeän tulista kastiketta a, G , L\nPalapaistia a, L\nPunajuuri-hamppupihvejä a, G , L M veg"
+    },
+    {
+      "name": "Lämmin lisäke",
+      "price": "U",
+      "info": "Paahdettuja perunoita ja juureksia G , L M veg"
+    },
+    {
+      "name": "Keittolounas",
+      "price": "U",
+      "info": "Inkivääri-porkkanakeittoa a, G , L M veg"
+    },
+    {
+      "name": "Jälkiruoka",
+      "price": "U",
+      "info": "Kahvi/tee a, G , L\nMarjahillo\nItte tehtyä ahvenanmaan pannukakkua a, L"
+    }
+  ],
+  "Pompier Albertinkatu": [
+    {
+      "name": "Fish&mash; pompierin \"kalapuikko\", tartarkastiketta, minttuherneitä ja perunamuusia",
+      "price": "14e",
+      "info": "U"
+    },
+    {
+      "name": "Runsas salaattipöytä sekä hernekeittoa ja pannukakkua",
+      "price": "14e",
+      "info": "U"
+    },
+    {
+      "name": "Kaikki herkut",
+      "price": "19e",
+      "info": "U"
+    }
+  ],
+  "Sofia": [
+    {
+      "name": "Paistettua puna-ahventa, kauden kasviksia ja bruschetta-tomaattia L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Oliivi-sitruunamarinoitua tofua, kauden kasviksia ja bruschetta-tomaattia v, G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Food & Co Hanken": [
+    {
+      "name": "Kasvislounas",
+      "price": "U",
+      "info": "Kreikkalaista fetapataa\n*, A, ilm, VL\nPaahdettua perunaa *, G ilm, L M veg"
+    },
+    {
+      "name": "Keittolounas",
+      "price": "U",
+      "info": "Hernekeittoa *, a, G ilm, L M\nPannukakkua ja hilloa a"
+    },
+    {
+      "name": "Lounas",
+      "price": "U",
+      "info": "Fenkolilla ja basilikalla maustettua broileripastaa\n*, A, L"
+    },
+    {
+      "name": "Erikoisannos",
+      "price": "U",
+      "info": "Persilja-limemajoneesia a, G L M\nJuustokuorrutettu tonnikalaleipä a, L\nMaalaisranskalaisia G L M veg"
+    }
+  ],
+  "Ravintola Bröd Punavuori": [
+    {
+      "name": "Tomaatti-vuohenjuustokeittoa L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "”Fish and chips” turskaa ja tartarkastiketta M",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kasviskofta v, G ja minttujogurttikastiketta L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Maalaisranskalaisia M G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Päivän jälkiruoka",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Sunn": [
+    {
+      "name": "Sunnin lohikeitto L G",
+      "price": "15e",
+      "info": "Sunn´s salmon soup L G"
+    },
+    {
+      "name": "Paahdettu sienirisotto L G",
+      "price": "15e",
+      "info": "Roasted mushroom risotto L G"
+    },
+    {
+      "name": "Päivän kala L G",
+      "price": "15e",
+      "info": "Fish of the day L G"
+    },
+    {
+      "name": "Artisokka-lehtikaalisalaatti v, G",
+      "price": "15e",
+      "info": "Artichoke and kale salad v , G"
+    }
+  ],
+  "Mekong": [
+    {
+      "name": "Lunch buffet 27/10",
+      "price": "12,7e",
+      "info": "Lunch buffet includes salad bar, tea/coffee and desert"
+    },
+    {
+      "name": "2. Phở bò tái nạm - beef pho soup",
+      "price": "16,90e",
+      "info": "Traditional vietnamese pho rice noodles soup with beef fillet and brisket, prepared in southern style"
+    },
+    {
+      "name": "3. Bún thịt xào contains peanuts",
+      "price": "14,90e",
+      "info": "Lemongrass stir-fried pork tenderloin served with rice noodles, roasted peanuts, green salad, pickled carrot and daikon, and sweet fish sauce"
+    },
+    {
+      "name": "4. Hủ tiếu chay- vegan soup contains peanuts, celery, soya, wheat",
+      "price": "15,90e",
+      "info": "Hủ tiếu tapioca noodles in vegetable broth, topped w/ roasted peanuts, mushroom, bean curd, fried vegan wonton, soy sausage, fried onions, and sliced tofu"
+    },
+    {
+      "name": "5. Vegan phở",
+      "price": "U",
+      "info": "Rice noodles in vegetable broth, topped w/ vegan chicken, mushroom, tofu, mung sprouts and herbs"
+    }
+  ],
+  "Block by Dylan": [
+    {
+      "name": "Hernekeittoa G v, palvikinkkua M G tuoretta sipulia G v ja sinappia G v",
+      "price": "9,90e",
+      "info": "U"
+    },
+    {
+      "name": "Pannupihvejä ja tummaa sipulikastiketta L G",
+      "price": "14,90e",
+      "info": "U"
+    },
+    {
+      "name": "Puna-ahventa ja chimichurria M G",
+      "price": "14,90e",
+      "info": "U"
+    },
+    {
+      "name": "Kermaperunoita L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Porkkanaohukaiset ja puolukka L",
+      "price": "14,90e",
+      "info": "U"
+    },
+    {
+      "name": "Pannukakkua L kermavaahtoa L G ja talon hilloa G v",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "KuuKuu": [
+    {
+      "name": "Hernekeittoa ja pannukakkua tai pyttipannua",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pea soup and pancake or meat potato hash",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Yuwa´s": [
+    {
+      "name": "GREEN CURRY",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Valitse possu tai tofu",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kookosliemessä porkkanaa, paprikaa, sipulia, bambunversoja ja korianteria.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Tarjoillaan jasminriisin kera.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "PHAD GRA PRAWN",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Valitse nauta tai tofu",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua nauta, tai tofua chilillä ja basilikalla maustettuna. Lisäksi porkkanaa, bambua, paprikaa ja valkosipulia.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Tarjoillaan Jasmiiniriisin kera.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "PHAD PRIEW WAN",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Valitse kana tai tofu",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua kanaa tai tofua hapanimeläkastikkeessa. Lisäksi porkkanaa, tomaattia, paprikaa ja sipulia.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Tarjoillaan Jasmiiniriisin kera.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "YUWA`S TACO",
+      "price": "14,90e",
+      "info": "U"
+    },
+    {
+      "name": "Valitse kana tai tofu",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Roti-tortilla valitsemallasi täytteellä kana tai tofu. Avokadoa, ituja, salaattia, korianteria, limeä ja frittisipulia maustettuna minttujogurtilla, hoisinkastikkeella ja chilimajoneesilla.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lounaaseen sisältyy lisäksi salaattibuffet, päivän keitto ja jälkiruokapöytä.",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Monal": [
+    {
+      "name": "Veg samosa",
+      "price": "U",
+      "info": "Peruna-herne -täytettyä kasvispasteijaa"
+    },
+    {
+      "name": "Chicken korma G L",
+      "price": "U",
+      "info": "Kananrintafile paloja kerma curry kastikkeessa"
+    },
+    {
+      "name": "Pork masala L",
+      "price": "U",
+      "info": "Porsananlihaa sipuli valkosipuli kastikkeessa"
+    },
+    {
+      "name": "Alu jeera vegan",
+      "price": "U",
+      "info": " Peruna ja cumina sipuli ja tomaatti intialaisia mausteilla"
+    },
+    {
+      "name": "Dal of the day vegan",
+      "price": "U",
+      "info": "Perinteisesti maustettuja päivän linssejä, sipulia, valkosipulia ja tuoreita tomaatteja"
+    }
+  ],
+  "UniCafe Olivia": [
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Pesto-kasvislasagnea\n[S] ve"
+    },
+    {
+      "name": "Vegaani",
+      "price": "U",
+      "info": "Mosambikilainen pähkinä-kikhernepata G [s] ve"
+    },
+    {
+      "name": "Päivän lounas",
+      "price": "U",
+      "info": "Kotimaisia kahden kalan pyöryköitä &, miedon tulista herne-mojokastiketta G L"
+    },
+    {
+      "name": "Makeasti",
+      "price": "U",
+      "info": "Pappilan hätävara L"
+    },
+    {
+      "name": "Tiedoitus",
+      "price": "U",
+      "info": "Otamme vastaan vain korttimaksuja"
+    }
+  ],
+  "Bank Lunch Club": [
+    {
+      "name": "Grillattua jyväkananpojanrintaa, kantarelli-polentaa ja punaviinikastiketta L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paahdettua lohta, timjamiperunaa ja tartarkastiketta, naattiporkkanaa L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Stifado nyhtökaurasta, timjamiperunaa vegaaninen",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Hernekeitto M G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pannukakku, mansikkahillo, kermavaahto L kysy keittiöstä gluteeniton",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Bank 20-vuotta vadelmakakkua & pannukakku, mansikkahillo, kermavaahto L kysy keittiöstä gluteeniton",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Himalaya": [
+    {
+      "name": "1: Tofu chilli",
+      "price": " 12,90e",
+      "info": "G , L\nTofu, capsicum and onion in chilli sauce"
+    },
+    {
+      "name": "2: Paneer masala",
+      "price": " 13,50e",
+      "info": "G , L\nUnripened cheese pieces in masala sauce"
+    },
+    {
+      "name": "3: Kukhura korma",
+      "price": " 13,50e",
+      "info": "G\nChicken fillet strips in curry-cream-cashew sauce"
+    },
+    {
+      "name": "4: Khasi karahi",
+      "price": " 13,50e",
+      "info": "G , L\nLamb with capsicum pieces in tomato masala sauce"
+    },
+    {
+      "name": "5: Butter prawns",
+      "price": " 13,50e",
+      "info": "G , L\nKing prawns in tomato butter and cream sauce"
+    },
+    {
+      "name": "6: Mix khana",
+      "price": " 14,90e",
+      "info": "Select two dishes above no. 1-5to make one combined portion"
+    },
+    {
+      "name": "7: Today’s special:lamb tikka masala",
+      "price": " 17,90e",
+      "info": "G , L\nHerb yogurt marinated tandoori oven grilled chicken"
+    }
+  ],
+  "Perho": [
+    {
+      "name": "Mausteinen siskonmakkarakeitto M G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua lohta, kermaan muhennettua pinaattia ja uuden sadon perunaa L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paahdettua kukkakaalia, kermaan muhennettua pinaattia ja uuden sadon perunaa L G v",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Southpark": [
+    {
+      "name": "Päivän keitto",
+      "price": "12,50e",
+      "info": "U"
+    },
+    {
+      "name": "Linssikeittoa L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lentil soup L G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Minne Garden & Lounge": [
+    {
+      "name": "Marokkolaista porkkanakeittoa v, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pääruokavaihtoehdot lautasannoksena",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistettua broilerin rintaa, serranokinkku-salviakastiketta ja gnoccheja L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Papu ballotine, salviakastiketta ja paahdettua perunaa v, G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Juttutupa": [
+    {
+      "name": "Omenasiiderissä haudutettua porsaanniskaa ja yrteillä maustettua riisiä L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Falafeleja ja hummusta v, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Perinteistä hernekeittoa v, G ja pannukakkua L",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "HALO food & events": [
+    {
+      "name": "Pick it",
+      "price": "13,50e",
+      "info": "- Halon lasagnea, marinarakastiketta ja persiljaöljyä L saatavilla G"
+    },
+    {
+      "name": "Choose it",
+      "price": "13,50e",
+      "info": "- Savustettua bbq jalotofua, sitruuna-aiolia ja ranskalaisia G M saatavilla ve"
+    },
+    {
+      "name": "Love it",
+      "price": "14,20e",
+      "info": "- Pannupaistettua kirjolohta, miso hapankermaa, paahdettua parsakaalia ja porkkanaa G L saatavilla M"
+    },
+    {
+      "name": "Soup it",
+      "price": "12,50e",
+      "info": "- Halon hernekeittoa ja sinappia G M ve"
+    }
+  ],
+  "Sodexo Kiltakellari": [
+    {
+      "name": "Mifu-ratatuille G M",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Jauhelihalasagne L",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Kellarin kujabistro kts. erillinen menu",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kahvi ja tee M G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Tiedekahvila": [
+    {
+      "name": "Lihapullat sienikastikkeessa, perunamuusia L G Kasvispyöryköitä ja yrttikastiketta ve, G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "La Torrefazione Hakaniemi": [
+    {
+      "name": "Kana-caesarsalaatti L saat. G",
+      "price": "13,50e",
+      "info": "Paahdettua kanaa, romainesalaattia, valkosipuli-yrttikrutonkeja, caesardressing ja parmesanlastuja"
+    },
+    {
+      "name": "Avokadopasta L",
+      "price": "13,90e",
+      "info": "Avokadokastike, oliivirouhetta, marinoituja tomaatteja, parmesaania ja ruohosipulia"
+    },
+    {
+      "name": "Lohirisotto G L",
+      "price": "14,50e",
+      "info": "Merilohta nor, sitruunaa, tillivoita, parmesaania ja ruohosipulia"
+    },
+    {
+      "name": "Glaseerattua porsaankylkeä aasialaisittain L",
+      "price": "15,90e",
+      "info": "Glaseerattua porsaankylkeä fin, jasmiiniriisiä, coleslawia, paahdettua sipulia ja korianteria"
+    },
+    {
+      "name": "Pinsaperjantai",
+      "price": "14,90e",
+      "info": "Sieni-tryffeli ve / salami-mozzarella L / kolme juustoa L sis. pähkinä\nTarjoillaan sivusalaatin kanssa"
+    }
+  ],
+  "Zinnkeller": [],
+  "B5 Black Töölö": [
+    {
+      "name": "Lihapullat & mojo rojo / meatballs & mojo rojo L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Naudan lihapullat, paahdettua paprikakastiketta ja kanarian perunoita",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Beef meatballs, roaster paprika sauce and canary potatoes",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lihan alkuperämaa suomi / the country of origin of the meat is finland",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Hernekeittoa M G pea soup M G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lihan alkuperämaa suomi / the country of origin of the meat is finland",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pannukakkua, hilloa ja kermavaahtoa / pancake, jam and whipped cream",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Pihka Meclu": [
+    {
+      "name": "Kalapyöryköitä kantarellikastikkeessa L porkkanaröstejä M G & höyrytettyä perunaa ve, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Tofu-kasviswokkia ve, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Perinteistä jauhelihakeittoa M G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Vadelmamoussea L G ja rapeaa granolaa",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Aamupala: kanelikaurapuuroa ve, G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Sävel": [
+    {
+      "name": "Hernekeittoa ja pannukakkua L k",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lihapullia ja yrttikermakastiketta L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Perunamuusia ja paahdettua bataattia L G k",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pastaa, pestoa ja vuohenjuustoa k",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Classic burger ja ranskalaiset L",
+      "price": "16,00e",
+      "info": "U"
+    },
+    {
+      "name": "Porsaanleike, bearnaisekastiketta ja tiristettyäperunaa L",
+      "price": "19,00e",
+      "info": "U"
+    }
+  ],
+  "Lasiranta": [
+    {
+      "name": "Ryhmät 7 hlö klo 12:00",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Buffet: kanaa ja rakuuna-dijonkastiketta L G p",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kukkakaali-currypyörykät ja kurkkukastiketta L G p",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Keitto: bataatti-kookoskeitto M G p",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Salaatti: paahdettu ananas-fetasalaatti L G p",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Vegaani: kukkakaali-currypyörykät ja kurkkukastike G p",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Hinnat",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Buffetlounas 13,50€",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Vegaanilounas 13,00€",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Keitto- ja salaattilounas 12,50€",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Salve": [
+    {
+      "name": "Hernekeittoa \u0001 G",
+      "price": "11,50e",
+      "info": "U"
+    },
+    {
+      "name": "Riistakäristystä, perunamuusia ja puolukkahilloa \u0001 G",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Paneroitua turskaa, perunamuusia ja hollandaisea \u0001 G",
+      "price": "14,20e",
+      "info": "U"
+    }
+  ],
+  "Niska Helsinki, Katajanokka": [
+    {
+      "name": "1. Ilmakuivattua kinkkua, herkkusieniä, rucolaa L",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "2. Vuohenjuustoa, marinoitua punasipulia, rucolaa",
+      "price": "13,50e",
+      "info": "U"
+    },
+    {
+      "name": "Niskan salaatit",
+      "price": "13,50e",
+      "info": "Kana, vuohenjuusto, kylmäsavulohi tai hernis"
+    }
+  ],
+  "Lohtu": [
+    {
+      "name": "Lämmin",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Mausteista punajuuri-linssipataa, yrttibulguria sekä paahdettua saksanpähkinää, dukkahia, appelsiinijogurttikastiketta ja minttua",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "V",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Salaatti",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paahdettua ruusukaalia ja myskikurpitsaa, kermaista tahinikastiketta, paahteista tofua, rapeita siemeniä, omenaa ja rucolaa",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "V, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Keitto",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": " Julkaistaan facebookissa/instagramissa samana päivänä",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "daVinci Bar & Ristorante Hakaniemi": [
+    {
+      "name": "1.Pollo e pesto pastaa, kana kermaisessa basilikapestossa",
+      "price": "11,90e",
+      "info": " Chicken pasta in creamy basil pesto"
+    },
+    {
+      "name": "2. Spagetti alla carbonara",
+      "price": "12,40e",
+      "info": " Spaghetti alla carbonara"
+    },
+    {
+      "name": "3. Gamberetto pastaa, parmankinkkua ja katkarapuja kermaisessa tomaattikastikkeessa",
+      "price": "12,70e",
+      "info": " Gamberetto pasta with parmaham and shrimps in creamy tomatosauce"
+    },
+    {
+      "name": "4. Broilerin rintafilee kermaisella sitruunakastikkeella ja ranskalaisia",
+      "price": "13,50e",
+      "info": " Chicken breast with creamy lemonsauce and fries"
+    },
+    {
+      "name": "5. Naudan ulkofileepihvi kermaisella valkosipulikastikkeella ja rosmariiniperunoita",
+      "price": "13,90e",
+      "info": " Fillet of beef with cremy garlic sauce and rosemary potatoes"
+    },
+    {
+      "name": "6. Tiramisu",
+      "price": "6,50e",
+      "info": "U"
+    }
+  ],
+  "Konttiravintola Morton Helsinki": [
+    {
+      "name": "Little John Burger -ateria VL",
+      "price": "13,90e",
+      "info": "Burgeri Peltolan Blue-sinihomejuustolla, maustekurkulla ja punasipulihillokkeella. Ranut ja dippiä. Pihvivaihtoehdot: Naudanliha TAI Mortonin porkkana-pellavapihvi. Saatavilla myös vegaanisena ja/tai gluteenittomana!"
+    },
+    {
+      "name": "Saran salaatti G , L",
+      "price": "13,90e",
+      "info": "Salaatti fetajuustolla, retiisillä, harissamarinoiduilla linsseillä, granaattiomenan siemenillä, mansikka-valkosipulihillokkeella ja sitruuna-aiolilla. Valitse kanan rintafilee tai Mortonin porkkana-pellavapihvi. Saatavilla myös vegaanisena!"
+    },
+    {
+      "name": "Lasten lounasburgeri VL",
+      "price": "8,90e",
+      "info": "Lasten burgeri naudanlihapihvillä, cheddarjuustolla, ketsupilla ja majoneesilla. Ranut ja ketsuppia. Saatavana gluteenittomana."
+    },
+    {
+      "name": "Päivän burgeriateria tai salaatti 13,90€. Päivän burgeri 12,70€ . Lasten lounasateria 8,90€.",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Myös Mortonin aamupalamenu saatavilla koko päivän hintaan 17,90€!",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Syö paikan päällä tai nouda mukaan. Pöytävaraukset isommille ryhmille täältä https://morton.resos.com/booking tai soittamalla. Tervetuloa lounaalle!",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Soup+More": [
+    {
+      "name": "The greensoup, vihreä kasviskeitto",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Slaavilainen lihakeitto, smetana & aurajuusto",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Talon bouillabaisse: lohi-äyriäiskeitto & aioli M G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Gresa": [
+    {
+      "name": "Curry-kananpoikaa gresan tapaan mausteisen riisin ja talon naan-leivän kera L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Gresa’s curried chicken with spiced rice and house made naan bread L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Sillikakkusia ja remouladea unelmankevyen perunamuusin ja aiolin kera L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Herring cakes and remoulade with dreamy light potato mash and aioli L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kasvis-chorizo-enchilladat mausteisen riisin ja chimichurrin kera L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Veggie chorizo enchilladas with spiced rice and chimichurri L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pannukakkua, kermavaahtoa ja mansikkahilloa L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pancake, creme chantilly and strawberry jam L",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Antell Femma": [
+    {
+      "name": "Lounasbuffet",
+      "price": "13,50e",
+      "info": "Perinteistä hernekeittoa M G , a\nPorsaan grillipihvejä M G , a\nItte tehtyä maustevoita L G , a\nKasviskormaa L G , a"
+    },
+    {
+      "name": "Lämmin lisäke",
+      "price": "U",
+      "info": "Höyrytettyä kukka- ja parsakaalta veg, M G\nMaalaislohkoperunoita veg, M G"
+    },
+    {
+      "name": "Jälkiruoka",
+      "price": "U",
+      "info": "Kahvi\nAntellin pannukakkua L a\nKermavaahtoa L G , a\nMansikkahillo"
+    }
+  ],
+  "Bistro O Mat Hakaniemi": [
+    {
+      "name": "Myskikurpitsakeitto 11,50 € / 13,50 € € L G veg",
+      "price": "U",
+      "info": "Paahdettua myskikurpitsakeittoa, rapeaa kurpitsansiemeniä ja smetanaa\nRoasted butternut squash soup, crunchy pumpkin seeds and sour cream"
+    },
+    {
+      "name": "Tartar 14 € L G",
+      "price": "U",
+      "info": "Härkätartaria pyöröpaistista, pikkelöityä sipulia, mustapippurimajoneesia ja raikasta salaattia\n+ Ranskalaiset perunat ja aiolia 4,50 €\nRoast beef tartare, pickled onion, black pepper mayonnaise and fresh salad\n+ French fries and aioli 4,50"
+    },
+    {
+      "name": "Pannupihvi 17 € L G",
+      "price": "U",
+      "info": "Pannupihvi häränlihasta, timjamivoissa paahdettua perunaa, pippurikermakastiketta, puolukkaa ja suolakurkkua\nPan-fried beef pattie, roasted potatoes in thyme butter, pepper cream sauce, lingonberries and pickled cucumber"
+    },
+    {
+      "name": "Lohi 18 € L G",
+      "price": "U",
+      "info": "Kevyesti savustettua lohta, piparjuuri-hollandaisea ja perunapyreetä\nLightly smoked salmon, horseradish hollandaise and mashed potatoes"
+    },
+    {
+      "name": "Sienirisotto 15,50 € L G veg",
+      "price": "U",
+      "info": "Täyteläistä metsäsienirisottoa, ruohosipulia ja parmesaania\nFull-bodied wild mushroom risotto, chives and parmesan cheese"
+    },
+    {
+      "name": "Päivän jälkiruoka 9",
+      "price": "U",
+      "info": "Dessert of the day"
+    },
+    {
+      "name": "Kolmen ruokalajin menu 36",
+      "price": "U",
+      "info": "Three-course menu"
+    }
+  ],
+  "Raiku": [
+    {
+      "name": "Karitsabolognese, juustomakaroni, spaghetti L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paahdettu kurpitsa- pähkinävuoka G L",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Trattoria Sogno": [
+    {
+      "name": "Äyriäisrisotto L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Uuniperunaa sienitäytteellä L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Maalaissalaattia savulohella L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Ala carté pizzat",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Ravintola Oiva": [
+    {
+      "name": "Hernekeittoa G M ja pannukakkua L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Ravioleja ja pestoa L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Välimeren broilerimurekeketta ja basilika-tomaattikastiketta L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pyttipannua ja paistettuja kananmunia G M",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pe 20.9",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Savulohikeittoa G L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kasvispihvejä ja yrttikermaviiliä",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Jauhelihamakaronilaatikkoa L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Havaijin leikkeitä, leivitettyjä porsaanleikkeitä M paistettua ananasta ja maustevoita G L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Tuoreen lihan alkuperä",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Nauta: suomi, saksa",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Porsas: suomi, saksa",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kana: suomi, brasilia",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pidämme oikeuden mahdollisiin muutoksiin menussa",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "G gluteeniton",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "L laktoositon",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "VL vähälaktoosinen",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "M maidoton",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "V- vegaaninen",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lisätietoja allergeeneista ja elintarvikkeiden alkuperästä saat henkilökunnalta",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Dylan Linjat": [
+    {
+      "name": "Siirapilla glaseerattuja liha-kaalikääryleitä paistinkastikkeessa L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Meheviä punajuuripihvejä v, G ja rakuunadippiä v, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Voilla höystettyä perunamuusia L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paahdettuja perunoita v, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Suussa sulavaa marianne-suklaamoussea L G saatavana myös vegaaninen jälkiruoka vaihtoehto",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Huom! avoinna vain kuntamarkkinoille osallistuville",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Food & Co Ruoholahti": [
+    {
+      "name": "Nordic buffet",
+      "price": "13,30e",
+      "info": "Hernesosekeittoa a, G ilm, L\nTalon kukkakaali-manchegopihvejä a, ilm, L\nLime-korianteriranskankermaa a, G ilm, L\nKatkarapunuudelia ja kasviksia a, L M vs\nCrispy chicken G L M\nCurrymajoneesia a, G L M\nSmoked paprika -paahdettuja perunoita *, G ilm, L M veg, vs\nChurro a, L\nSuklaakastiketta a, G L\nPäivän pizza\nPäivän kasvispizza"
+    }
+  ],
+  "Sotto Pizza & Bar": [
+    {
+      "name": "Oskarinleike L ja choron kastike L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Tomaatti & basilika fagottini ve",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kermaperunat L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Grillikasvikset ve, G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lohi-perunavuoka L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Hernekeitto M L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pannukakut kermavaahdolla ja mansikkahillolla L",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Ravintola Sewa": [
+    {
+      "name": "Torstai",
+      "price": "U",
+      "info": "1.Tofu masala G , L vegaani / vegan\nTofua masala-kastikkeessa"
+    },
+    {
+      "name": "2.Paneer makhani G",
+      "price": "U",
+      "info": "Paneer-juustoa tomaatti-voi-kermakastikkeessa"
+    },
+    {
+      "name": "3.Coconut chicken G L",
+      "price": "U",
+      "info": "Haudutettua kanaa mausteisessa kookos currykastikkeessa"
+    },
+    {
+      "name": "4.Chicken lamb masala G",
+      "price": "U",
+      "info": "Yrtti-jogurttimarinoitua ja tandoori-uunissa grillattua kanaa ja lampaanjauhelihaa mausteisessa tomaatti-sipuli-inkiväärikastikkeessa"
+    },
+    {
+      "name": "5.Prawn makhani G",
+      "price": "U",
+      "info": "Jättikatkarapuja tomaatti-voi-kermakastikkeessa"
+    },
+    {
+      "name": "6.Rojeko khaja",
+      "price": "U",
+      "info": "Valitse listalta nro 1-5 yllä kaksi eri ruokalajia samaan annokseen"
+    },
+    {
+      "name": "7. Today´s special: lamb chilli G L",
+      "price": "U",
+      "info": "Haudutettuja lampaanpaloja ja paprikaa sipuli-valkosipuli-tomaatti-chilikastikkeessa"
+    }
+  ],
+  "Food & Co Kookos Teak": [
+    {
+      "name": "Yrttistä porkkanasosekeittoa",
+      "price": "U",
+      "info": "*, A, G ilm, L M veg\nPaahdettuja siemeniä G L M veg"
+    },
+    {
+      "name": "Täysjyvävehnätortillaa a, L M veg",
+      "price": "U",
+      "info": "Mausteista vönertäytettä a, ilm, L M veg, vs"
+    },
+    {
+      "name": "Jälkiruoka",
+      "price": "U",
+      "info": "Tyrni-jogurttipannacottaa a, G L"
+    },
+    {
+      "name": "Lounas",
+      "price": "U",
+      "info": "Jamaicalaista kanamakkarapataa *, a, ilm, L M vs\nPaahdettua perunaa *, G ilm, L M veg"
+    },
+    {
+      "name": "Kasvislounas",
+      "price": "U",
+      "info": "Marokkolaisia kasvispihvejä *, G ilm, L M veg\nTzatsiki-jogurttia\n*, A, G L vs\nPaahdettua perunaa *, G ilm, L M veg"
+    }
+  ],
+  "Food & Co Poijut": [
+    {
+      "name": "Buffet",
+      "price": "U",
+      "info": "Mustajuurisosekeittoa a, G ilm, L M veg, vs\nHärkistä ja paahdettuja kasviksia teriyakiakastikkeessa\n*, A, G ilm, L M veg\nSinappi-porsaspataa *, a, L\nJasminriisiä G L M veg\nCrispy chicken G L M\nAmerikkalaista chilimajoneesia\nA, G L M veg\nPaahdettua juustoperunaa a, G ilm, L\nChilillä maustettua porkkanaa G L M veg, vs\nSuklaamoussea a, G L"
+    }
+  ],
+  "Food & Co Roihu": [
+    {
+      "name": "Avocado-kirsikkatomaatti-maapähkinä pastaa L M veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Punajuuri pestopastaa ja vuohenjuustoa VL",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paahdettua kirjolohta G L M ruohosipuli-kermaviilikastiketta G L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lisuke",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paahdettua punakaalia, herkkusieniä ja porkkanaa G L M veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Perunamuusia G L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Metsäsienikeittoa L M G veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Jälkiruoka",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Ohukaisia a sis.laktoosi, kananmuna, vehnä",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Mansikkahillo G L M veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kermavaahto G L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Nutella G sis.hasselpäh.laktoosi",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Dylan Milk": [
+    {
+      "name": "Aamiaisella: sadonkorjuupuuro M v",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Perinteistä hernekeittoa v, G hienonnettua sipulia v, G ja sinappia v, G palvikinkkua M G",
+      "price": "10,00e",
+      "info": "U"
+    },
+    {
+      "name": "Mehevää karamellisoitua porsasta M G",
+      "price": "14,70e",
+      "info": "U"
+    },
+    {
+      "name": "Kookosriisiä G v",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Ai että! limonello katkarapu-kylmäsavulohipastaa L",
+      "price": "14,70e",
+      "info": "U"
+    },
+    {
+      "name": "Maukas munakoisomoussaka G v",
+      "price": "14,70e",
+      "info": "U"
+    },
+    {
+      "name": "Jälkiruoka: rakkaudella leivottua omppupannukakkua L marjahilloa v, G ja kermavaahtoa L G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Kulttuuritehdas Korjaamo": [
+    {
+      "name": "Kasvishernekeittoa v G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paistetut muikut, tartarkastiketta ja perunasosetta L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kasviskoftapihvi, rucolapestoa ja couscous v",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Faro Ravintola": [
+    {
+      "name": "Porsaan kassleria, pippurikastiketta ja perunapyree L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Paahdettua kurpitsaa, papuragu, piparjuurikreemiä ja kaalisipsiä L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kana caesarsalaatti L",
+      "price": "15,00e",
+      "info": "U"
+    },
+    {
+      "name": "Laavakivigrillissä paistettu entrecote pihvi, punaviinikastiketta, rapeat perunat ja aioli L G",
+      "price": "23e",
+      "info": "U"
+    },
+    {
+      "name": "Beef burger tuplacheddarilla, ranskalaiset ja dippi L",
+      "price": "18,50e",
+      "info": "U"
+    },
+    {
+      "name": "Fish ´n chips, muhennettua hernettä ja tartar-kastike L",
+      "price": "19,50e",
+      "info": "U"
+    }
+  ],
+  "Lie Mi Lunch kitchen": [
+    {
+      "name": "Lounas buffet 13,50€",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "•Lie Mi Salaattipöytä",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "•Tulinen tomaattikeitto L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "•Shanghai taco päivä",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Naudan L sisältyy soija tai rapeat munakoiso L V Pyydettäessä",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "•Kasvis samosas V",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "•Korealainen kasvismyky L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "•Mango vanukas L G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Kahvila Welldone": [
+    {
+      "name": "Töölö",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Punainen linssikeitto L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lihapullia kermakastikkeessa",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "  L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pinaattiohukaiset, puolukkaa L",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Mosa",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Savuporokeitto L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Ahventa ja kermaista tillikastiketta L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lämmin punajuuri-leipäjuustosalaatti L G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Onda": [
+    {
+      "name": "Buffet",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Salad buffet",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Best salad buffet in kallio",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Vegan coconut green curry & tofu G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Ragu sauce w/ pork & fennel M G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lunch specials 11:00 - 14:30",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Pistaasipestopasta L saa veg",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Lehtipihvi, maustevoi, grillattu tomaatti & ranskalaiset G L",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Factory Ruoholahti": [
+    {
+      "name": "Hernekeitto palvikinkulla M + G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Talon lihapullat italialaisessa kirsikkatomaatti-kermakastikkeessa L G bataatti-perunamuusi L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kanawokki teriyaki-kastikkeella ja grillatuilla kasviksilla M vs",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Uuniperunat wasabilla höystetyllä tonnikalatäytteellä L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Kukkakaali-kikhernemasala tofulla ve + G vs basmatiriisi ve + G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Factoryn letut L mansikkahillo ve + G vaniljavaahto L G jäätelö L G",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Vegaaniset gluteenittomat letut ve + G",
+      "price": "U",
+      "info": "U"
+    }
+  ],
+  "Cafe Carusel": [
+    {
+      "name": "Perinteinen hernekeitto M G sis. lihaa ja pannarit mansikkahillolla",
+      "price": "U",
+      "info": "U"
+    },
+    {
+      "name": "Uunifetapasta L",
+      "price": "U",
+      "info": "U"
+    }
+  ]
+}
