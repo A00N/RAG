@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from preprocessing import write_processed_json
 import pandas as pd
 import os
 import time
@@ -111,6 +112,7 @@ if __name__ == "__main__":
     url = "https://www.lounaat.info/"
     data = scrape_lunch(url)
     write_json(data)
+    write_processed_json()
     
 
         
