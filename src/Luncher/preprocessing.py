@@ -1,5 +1,7 @@
 import json
 import re
+import os
+from datetime import datetime
 
 def process_item(item):
     # Extract price from name if price is missing
@@ -28,7 +30,7 @@ def process_item(item):
     if allergens:
         item['allergens'] = allergens
     else:
-        item['allergens'] = []
+        item['allergens'] = "U"
 
     # Clean name and info from unnecessary characters and whitespaces
     def clean_text(text):
@@ -46,6 +48,16 @@ def process_item(item):
     return item
 
 def write_processed_json():
+    current_date = datetime.now().strftime('%Y-%m-%d')
+    directory = 'data/'
+    file_name = f'{current_date}.json'
+    file_path = os.path.join(directory, file_name)
+
+    # Check if the file exists with the current date and do not create a new file if it does
+    if os.path.exists(file_path):
+        print(f"A file for today's date ({current_date}) already exists")
+        return
+
     # Load data
     with open('menu_data.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
@@ -54,9 +66,9 @@ def write_processed_json():
     for restaurant, menu in data.items():
         data[restaurant] = [process_item(item) for item in menu]
 
-    # Save processed data
-    with open('menu_data_processed.json', 'w', encoding='utf-8') as file:
-        json.dump(data, file, ensure_ascii=False, indent=4)
+    # Save processed data to file in the data directory with the current date as the filename
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
     print("Succesfully wrote processed data to file")
 
