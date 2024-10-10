@@ -1,0 +1,5097 @@
+{
+    "Il Trio": [
+        {
+            "name": "Pasta all arrabbiata",
+            "price": "13,50",
+            "info": "Pasta chili valkosipuli basilika tomattikastike parmesaani",
+            "allergens": []
+        },
+        {
+            "name": "Pasta al gorgonzola zucchine prosciutto",
+            "price": "13,50",
+            "info": "Pasta kesäkurpitsa gorgonzolajuusto keitettyä kinkkua maito kerma mustapippuri oliviöljy",
+            "allergens": []
+        },
+        {
+            "name": "Pizza tonno cipolla",
+            "price": "13,50",
+            "info": "Tomaattikastike fior di latte mozzarella tonnikala sipuli",
+            "allergens": []
+        },
+        {
+            "name": "Entrecte al vino",
+            "price": "15,90",
+            "info": "Entrecte pihvi punaviini salvia rosmariini voi oliiviöljy sipuli mustapippuri vihannekset ja perunat",
+            "allergens": []
+        }
+    ],
+    "Food & Co Pääposti": [
+        {
+            "name": "Nordic buffet",
+            "price": "13,50",
+            "info": "Päivän keitto Satokauden kasviksia Kukkakaalimanchegopihvejä ilm Itse tehtyä lihamureketta Päivän pizza Päivän jälkiruoka",
+            "allergens": [
+                "VEG",
+                "M",
+                "L",
+                "VS"
+            ]
+        }
+    ],
+    "10.Kerros": [
+        {
+            "name": "Hernekeitto",
+            "price": "15,50",
+            "info": "Sis salaattipöydän sekä pannukakut",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Broilerin paistileikettä ja chilimajoneesia Lm",
+            "price": "18,90",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Seesampaahdettua kirjolohta ja hollandaise kastiketta",
+            "price": "22,50",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Metsäsienikääryleitä ruohosipuliperunamuusia ja sokeroitua puolukkaa",
+            "price": "18,90",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Business menu",
+            "price": "59,50",
+            "info": "Businesslounaan menu kaikki pöytään tarjoiltuna kahvi tee sisältyy menun hintaan Alkuruokana Riimihärkää pikkelöityjä sieniä ja aiolia Pääruokana Taimenta kukkakaalipyreetä ja omenalla maustettua tummaa kastiketta Jälkiruokana Puolukkaparfait ja kinuskia",
+            "allergens": [
+                "G",
+                "M",
+                "L"
+            ]
+        }
+    ],
+    "La Torrefazione Lasipalatsi": [
+        {
+            "name": "Falafelsalaatti",
+            "price": "13,50",
+            "info": "Falafeleja punaherukkacremeä kirsikkatomaattia marinoitua punasipulia kurkkua mustapapukvinoasalaattia sekä passionhedelmävinegrettiä",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paahtopaistisalaatti katkarapua",
+            "price": "14,90",
+            "info": "Katkarapuja paahtopaistia kirsikkatomaattia kurkkua marinoitua sipulia hapankaalicreme ja dijonvinegrettiä",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Sienipasta nochicken",
+            "price": "13,90",
+            "info": "Paahdettuja sieniä ja pähkinöitä nochicken soijaproteiinia paahdettua sipulia soijapähkinäkastiketta ja kevätsipulia",
+            "allergens": [
+                "VE"
+            ]
+        },
+        {
+            "name": "Pekonirisotto salted caramel popcorn",
+            "price": "14,90",
+            "info": "Kurkumamaissirisottoa paahdettua cheddar juusto paahdettua pekonia karamellisoitua sipulia karamellipopcornia tuoreita yrttejä ja yrtti öljyä",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Pinsaperjantai",
+            "price": "14,90",
+            "info": "Sienitryffeli salamimozzarella kolme juustoa sis pähkinä Tarjoillaan sivusalaatin kanssa",
+            "allergens": [
+                "VE",
+                "L"
+            ]
+        }
+    ],
+    "Kiasma café": [
+        {
+            "name": "Punajuuriomenakeitto",
+            "price": "10,90",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Falafelit manteliriisiä ja tzatzikia",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Haukipihvit kermaista ruohosipulikastiketta ja perunamuussia",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paistettuja muikkuja sitruunajogurttikastiketta ja pikkelöityä punasipulia",
+            "price": "15,90",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "Vltava": [
+        {
+            "name": "Rapeaksi paistettua paneroitua kampelaa",
+            "price": "13,50",
+            "info": "Tartarkastiketta perunamuusia ja kauden kasviksia",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Paistettua maksaa ja ruskeaa kastiketta",
+            "price": "13,50",
+            "info": "Perunamuusia paistettua sipulia ja sokeroitua puolukkaa",
+            "allergens": [
+                "G"
+            ]
+        }
+    ],
+    "John Scott's Arkadia": [
+        {
+            "name": "Päivän keitto hernekeitto pannukakkua",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Porsaanleike ja chilimajoneesi",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lindströminpihvit sienikastikkeella",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kesäkurpitsalasagne",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Perunamuusi",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Antell Pik­kuar­ka­dia": [
+        {
+            "name": "Lounasbuffet",
+            "price": "13,50",
+            "info": "Jauhelihatortilla Kasvistortilla Tulista salsakeittoa",
+            "allergens": [
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Jälkiruoka",
+            "price": "U",
+            "info": "Jogurttimoussea ja mangoa Kahvi tee",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Napule Pizzeria Napoletana": [
+        {
+            "name": "Margherita",
+            "price": "12,70",
+            "info": "San marzanotomaatti fior di lattemozzarella pecorino romanojuusto basilika öljy",
+            "allergens": []
+        },
+        {
+            "name": "Pizza vegetariana",
+            "price": "14",
+            "info": "San marzanotomaatti fior di lattemozzarella pecorino romanojuusto paprika kesäkurpitsa basilika öljy",
+            "allergens": []
+        },
+        {
+            "name": "Diavola",
+            "price": "14,90",
+            "info": "San marzanotomaatti fior di lattemozzarella pecorino romanojuusto mausteinen napolilainen salami basilika öljy",
+            "allergens": []
+        },
+        {
+            "name": "Pizza prosciutto crudo",
+            "price": "15,10",
+            "info": "San marzanotomaatti fior di lattemozzaella pecorino romanojuusto basilika öljy ja parmankinkku",
+            "allergens": []
+        },
+        {
+            "name": "Pizza al pollo",
+            "price": "13,80",
+            "info": "Fior di lattemozzarella pecorino romanojuusto kana rucola mayochupkastike basilika öljy valkoinen pizza",
+            "allergens": []
+        },
+        {
+            "name": "Pizza al rag",
+            "price": "14,60",
+            "info": "Fior di lattemozzarella pecorino romanojuusto naudanliharag basilika öljy",
+            "allergens": []
+        },
+        {
+            "name": "Pizza ai formaggi",
+            "price": "15,20",
+            "info": "Fior di lattemozzarella pecorino romanojuusto gorgonzola basilika öljy parmesaanilastu rucola valkoinen pizza",
+            "allergens": []
+        },
+        {
+            "name": "Pasta al pollo",
+            "price": "15,50",
+            "info": "Kanapasta kermaisessa chilivalkosipulitomaattikastikkeessa",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Risotto ai fungi",
+            "price": "16,00",
+            "info": "Sienirisotto",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Insalata caesar",
+            "price": "13,90",
+            "info": "Talon caesarsalaatti kanalla",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Insalata di prosciutto",
+            "price": "14,50",
+            "info": "Salaatti bufala mozzarellalla ja parmankinkulla",
+            "allergens": [
+                "VL"
+            ]
+        },
+        {
+            "name": "Insalata di salmone",
+            "price": "15,00",
+            "info": "Kylmäsavulohisalaatti kananmunalla vihreillä pavuilla varhaisperunoilla ja marinoidulla sipulilla sekä leipälastuja ja smetanaa",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Tiramis",
+            "price": "6,50",
+            "info": "Talon tiramisu",
+            "allergens": []
+        },
+        {
+            "name": "Lisätäyte pizzaan kpl san marzanotomaatti pizzaan tai täytteen vaihto kpl pizzan puolitus",
+            "price": "2,50",
+            "info": "Extra topping for pizza san marzano tomato to pizza replace the topping pizza cut in half",
+            "allergens": []
+        },
+        {
+            "name": "Lounashintaan sisältyy salaattipöytä ja kahvi tai tee",
+            "price": "U",
+            "info": "Lunch includes salad bar and coffee or tea",
+            "allergens": []
+        }
+    ],
+    "Social Burgerjoint Citycenter": [
+        {
+            "name": "Lounasburgeri little korea",
+            "price": "12,30",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Classic briossisämpylä korean bbqmajoneesi pikkelöity punakaali",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Smash sämpylä korean bbqmajoneesi pikkelöity punakaali kaksi",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Parmesaaniranskalaisilla",
+            "price": "13,90",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kausiburgeri castle hill",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Classic briossisämpylä cowboy buttermajoneesi pekoni",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Smash sämpylä cowboy buttermajoneesi pekoni kaksi",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Biáng! Citycenter": [
+        {
+            "name": "Lounasbuffet",
+            "price": "14,90",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "UniCafe Kaivopiha": [
+        {
+            "name": "Kaivopiha vegaani",
+            "price": "U",
+            "info": "Luomutofua ja pinaattia palak paneer",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Kaivopiha vegaani",
+            "price": "U",
+            "info": "Kasvisjalapenonugetteja ja paahdettua seesamkastiketta",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Kaivopiha päivän lounas",
+            "price": "U",
+            "info": "Uunimakkaraa sinappikastiketta",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Makeasti",
+            "price": "U",
+            "info": "Suklaamousse",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Kaivopiha vegaaninen salaattibaari",
+            "price": "U",
+            "info": "Vegaaninen salaattibaari tarjolla linjastossa",
+            "allergens": [
+                "VE"
+            ]
+        }
+    ],
+    "Woolshed Helsinki": [
+        {
+            "name": "RUMP STEAK",
+            "price": "12,90",
+            "info": "aged New Zealand rump steak Served with fries salad red wine sauce",
+            "allergens": []
+        },
+        {
+            "name": "FRIED CHICKEN BURGER",
+            "price": "12,90",
+            "info": "Breaded chicken cheddar cheese Cajun mayo lettuce tomato Served with fries aioli dip",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "VEGE HALLOUMI BURGER",
+            "price": "12,90",
+            "info": "Vege bean patty halloumi cheese avocado aioli lettuce tomato Served with fries aioli dip",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "CLASSIC BEEF BURGER",
+            "price": "12,90",
+            "info": "Angus beef patty Cheddar fried onions pickle mayo lettuce tomato Served with fries aioli dip",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "HALLOUMI SALAD",
+            "price": "12,90",
+            "info": "Lettuce fried halloumi cucumber cherry tomatoes capsicum pickled red onion avocado aioli citrus dressing",
+            "allergens": []
+        },
+        {
+            "name": "CHICKEN SALAD",
+            "price": "12,90",
+            "info": "Grilled chicken lettuce cherry tomatoes cucumber grapes walnuts honeymustard dressing",
+            "allergens": []
+        }
+    ],
+    "Kiila": [
+        {
+            "name": "Yön yli haudutettua naudanniskaa ja röstiperunaa",
+            "price": "13,50",
+            "info": "Pikkelöityjä kesäkasviksia pippurikermakastiketta",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paahdettua lohta ja perunamuhennosta",
+            "price": "16,90",
+            "info": "Pikkelöityä kukkakaalia ruohosipulihollandaisea",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Tryffelirisottoa",
+            "price": "14,90",
+            "info": "Mehustettua tomaattia ja juureslastuja",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Grillattu häränsisäfileepihvi ja mustatryffelirisottoa",
+            "price": "19,90",
+            "info": "Pikkelöityä kukkakaalia punaviinikastiketta",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Punajuuri falafelejä ja punaista kasviscurrya",
+            "price": "14,90",
+            "info": "Jasmin riisiä pikkelöityä kukkakaalia sis pähkinää",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        },
+        {
+            "name": "Tomaattibasilikakeitto",
+            "price": "9,90",
+            "info": "Lohiavokadosalaatti Paahdettua lohta avokadoa vihersalaattia sitrus vinegretteä punaista linssiä cantaloupemelonia pikkelöityä punasipulia friteerattua lehtikaalia kirsikkatomaattia timjamiporkkanaa viinirypäleitä paahdettua pähkinää ja avokadolimefraichea sispähkinä",
+            "allergens": [
+                "VEG",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Jokirapuananassalaatti",
+            "price": "14,90",
+            "info": "Jokirapuja ananaschilisalsaa vihersalaattia sitrus vinegretteä punaista linssiä pikkelöityä punasipulia kirsikkatomaattia timjamiporkkanaa viinirypäleitä paahdettua pähkinämurua ja avokadolimefraichea sispähkinä",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kanahalloumisalaatti",
+            "price": "14,90",
+            "info": "Paneroitua kananpojan paistileikettä friteerattua halloumia vihersalaattia sitrus vinegretteä punaista linssiä ananaschilisalsaa pikkelöityä punasipulia timjamiporkkanaa viinirypäleitä kirsikkatomaattia paahdettua pähkinää ja curryfraichea sispähkinä",
+            "allergens": [
+                "G",
+                "VL"
+            ]
+        },
+        {
+            "name": "Punajuurifalafelavokadosalaatti",
+            "price": "14,90",
+            "info": "Punajuurifalafeleja avokadoa vihersalaattia sitrus vinegretteä punaista linssiä cantaloupemelonia pikkelöityä punasipulia timjamiporkkanaa viinirypäleitä kirsikkatomaattia paahdettua pähkinää ja yrttivalkosipulihummusta sispähkinä",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        },
+        {
+            "name": "Caesarsalaatti",
+            "price": "14,90",
+            "info": "Jokirapu Paahdettua lohta Paneroitua kananpojan paistileikettä Romainesalaattia kiilan caesarkastiketta Kirsikkatomaattia parmesaanijuustoa ja focaccia krutonkeja",
+            "allergens": []
+        },
+        {
+            "name": "Härkäburger",
+            "price": "15,90",
+            "info": "Paahdettua aiolia cheddarjuustoa jääsalaattia pikkelöityä punasipulia ja tomaattia",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Crispy chicken burger",
+            "price": "15,90",
+            "info": "Harissapaprikamajoneesia jääsalaattia pikkelöityä punasipulia ja tomaattia",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kasvishalloumi burger",
+            "price": "15,90",
+            "info": "Friteerattua paprikaa ja kesäkurpitsaa pariloitua Halloumia limejalapenomajoneesia jääsalaattia Pikkelöityä punasipulia ja tomaattia",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "Amos Café": [
+        {
+            "name": "Lasagne al Forno",
+            "price": "13,50",
+            "info": "Kuuma kupliva uunissa paistettu lasagne valmistettu jauhelihasta bchamelkastikkeesta silkkisestä pastasta ja päällä sulanutta mozzarellajuustoa",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pannulla paistettu kananrintafilee",
+            "price": "13,50",
+            "info": "Kultainen mehevä kana joka on kuorrutettu vastustamattomalla pannukastikkeella Tarjoillaan bulgurin kanssa",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Punajuuririsotto",
+            "price": "13,50",
+            "info": "Kermainen ja värikäs risotto viimeistelty parmesanjuustolla",
+            "allergens": [
+                "V",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lounaaseen kuuluu salaatti kahvi sekä jälkiruoka",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Sandro Kortteli": [
+        {
+            "name": "Naudanlihapulla tagine",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kikherne tagine perunalla",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Sandron riisi",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        }
+    ],
+    "Ilves Ravintola": [
+        {
+            "name": "Kasvislasagnette",
+            "price": "11,30",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lasagne",
+            "price": "14,50",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Bistro Manu": [
+        {
+            "name": "Manun lounasbuffet",
+            "price": "15,00",
+            "info": "Hernekeittoa Pannukakkua kermavaahtoa ja mansikkahilloa pyydettäessä gluteeniton ohukainen Paahdettua broilerin koipea kookoscurrykastiketta Linssikasviscurrya Vihannesriisiä",
+            "allergens": [
+                "VE",
+                "G",
+                "M"
+            ]
+        }
+    ],
+    "Deliberi Keskuskatu": [
+        {
+            "name": "Paistettua taimenta ja rakuunaperunaa sitruunavalkoviinikastiketta ja härkäpapuretiisisalaattia",
+            "price": "13,50",
+            "info": "Fried trout with tarragon potatoes lemon and white wine sauce and fava bean and radish salad",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Myskikurpitsakeittoa",
+            "price": "9,50",
+            "info": "Butternut squash soup",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        },
+        {
+            "name": "Paahdettua lohta ja parmesankrossiperunaa sitruunatillismetanaa ja mehustettua tomaattimozzarellasalaattia",
+            "price": "15,50",
+            "info": "Roasted salmon with parmesan seasoned smashed potatoes lemon and dill sour cream and juiced tomato and mozzarella salad",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kantarellirisottoa tryffelifraichea ja pikkelöityä raitajuurta",
+            "price": "13,50",
+            "info": "Chanterelle risotto truffle fraiche and pickled chioggia beet",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Pariloitu naudan ulkofileepihvi ja parmesankrossiperunaa piparjuurifraichea ja mehustettua tomaattimozzarellasalaattia",
+            "price": "15,50",
+            "info": "Grilled beef sirloin steak with parmesan seasoned smashed potatoes horseradish fraiche and juiced tomato and mozzarella salad",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kanafetasalaatti ja puolukkavinegrettiä",
+            "price": "13,50",
+            "info": "Paneroitua kanaa puolukkavinegrettiä fetamurua romainesalaattia kurkkusuikaletta kirsikkatomaatteja kvinoaa vesimelonia ja ruohosipulia Breaded chicken or roasted salmon lingonberry vinaigrette crushed feta cheese romaine salad cucumber stripes cherry tomatoes quinoa watermelon and chives",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lohifetasalaatti ja puolukkavinegrettiä",
+            "price": "13,50",
+            "info": "Paahdettua lohta puolukkavinegrettiä fetamurua romainesalaattia kurkkusuikaletta kirsikkatomaatteja kvinoaa vesimelonia ja ruohosipulia Breaded chicken or roasted salmon lingonberry vinaigrette crushed feta cheese romaine salad crispy onion cucumber stripes cherry tomatoes quinoa watermelon and chives",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "La Famiglia": [
+        {
+            "name": "La famiglian jauhelihalasagne",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "VL"
+            ]
+        },
+        {
+            "name": "Sesongin risotto",
+            "price": "13,50",
+            "info": "Risotto tateista ja portobellosta",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Metsästäjän porsasta",
+            "price": "15,50",
+            "info": "Porsaan ulkofileeleike kermaista metsäsienikastiketta ja paahdettua perunaa",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Viikon pizza",
+            "price": "14,90",
+            "info": "Basilikalla marinoitua kananrintaa tuoretta tomaattia pikkelöityä shalottisipulia tomaattikastiketta ja fior di latte mozzarellaa",
+            "allergens": [
+                "VL"
+            ]
+        },
+        {
+            "name": "Pizza kahdella täytteellä",
+            "price": "14,90",
+            "info": "Pizza saatavana myös gluteenittomana Palvikinkku mozzarella di bufala tomaatti kana ilmakuivattu kinkku saunapalvikinkku mietotulinen salami jättikatkarapu marinoitu kesäkurpitsa artisokka fenkoli tai paprika tuplajuusto gorgonzola oliivi pesto pä tuore tomaatti portobello tai pikkelöity chili lisäksi tomaattikastiketta ja fior di latte mozzarellaa",
+            "allergens": []
+        },
+        {
+            "name": "Lounassalaatti",
+            "price": "13,50",
+            "info": "Caesarsalaatti kanalla katkaravuilla tai mozzarella di bufalalla Lisäksi romainesalaattia caesarkastiketta parmesanjuustoa ja krutonkeja",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "OR Restaurant & Bar": [
+        {
+            "name": "Lohikeittoa ja saaristolaisleipää",
+            "price": "17,00",
+            "info": "Saatavilla myös pienemmässä koossa",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Perinteinen caesarsalaatti",
+            "price": "15,00",
+            "info": "Katkaravuillakanalla",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Punajuuririsottoa saksanpähkinää ja salottisipulia",
+            "price": "16,00",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Turskaa kaalia ja kukkakaalipyreetä",
+            "price": "21,00",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Vasikkawallenberg perunamuusia ja herneitä",
+            "price": "19,00",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Päivän jäätelösorbetti",
+            "price": "7,00",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Ateneum Bistro": [
+        {
+            "name": "Lounasbuffet",
+            "price": "15,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kukkakaalikeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Uuniperunaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Piparjuurella maustettu savutofutäyte",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Currykanatäyte",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Buffet ilman keittoa",
+            "price": "14,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lounaskeitto",
+            "price": "10,90",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Sahramilla maustettua sinisimpukkarisottoa",
+            "price": "15,90",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Food & Co WTC": [
+        {
+            "name": "Hernesosekeittoa ilm",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Stroganoffia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L",
+                "VS"
+            ]
+        },
+        {
+            "name": "Talon kukkakaalimanchegopihvejä ilm",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Limekorianteriranskankermaa ilm",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paistettua kaalia herkkusieniä ja tomaattia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kasvisriisiä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Pannukakkua",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "La Torrefazione Aleksanterinkatu": [
+        {
+            "name": "Kreikkalainen salaatti",
+            "price": "13,50",
+            "info": "Fetaa kurkkua kirsikkatomaattia kalamataoliivia punasipulia ja rucolaa",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Pasta pomodoro",
+            "price": "13,90",
+            "info": "Marinarakastiketta basilikaa semikuivattua kirsikkatomaattia ja parmesaania",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Sahramirisotto naudanposkirilletteä",
+            "price": "14,90",
+            "info": "Sahramilientä kotimaista naudanposkea ja ruohosipulia",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Keittiömestarin suositus",
+            "price": "16,90",
+            "info": "Paahdettua lohta perunapyreetä neulapapuja ja antiboisekastiketta",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pinsaperjantai",
+            "price": "14,90",
+            "info": "Sienitryffeli salamimozzarella kolme juustoa sis pähkinä Tarjoillaan sivusalaatin kanssa",
+            "allergens": [
+                "VE",
+                "L"
+            ]
+        }
+    ],
+    "Finnjävel Sali": [
+        {
+            "name": "LISÄKSI",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Leipävalikoima",
+            "price": "6,90",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Finnjävelin juustot",
+            "price": "10,50",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Osakuntabaari": [
+        {
+            "name": "Paneroitu lohipihvi",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VL"
+            ]
+        },
+        {
+            "name": "Marokko kasvispihvi",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Myös take away",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Dylan Marmoripiha": [
+        {
+            "name": "Salaattibuffet keitto ja jälkkäri",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Hernekeittoa sipulia ja sinappia sekä halutessasi lisähöysteeksi kinkkua",
+            "price": "9,90",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        },
+        {
+            "name": "Rapeaksi paistettua porsaanleikettä ja viherpippurimajoneesia",
+            "price": "14,90",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "Grillattua kananpoikaa fetaa ja viherpippurimajoneesia",
+            "price": "14,90",
+            "info": "U",
+            "allergens": [
+                "G",
+                "VL"
+            ]
+        },
+        {
+            "name": "Yrttipaahdettua nyhtöhernettä munakoisoa tomaattikastikkeessa",
+            "price": "14,90",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        },
+        {
+            "name": "Maustepaahdettua perunaa ja ripaus lehtiyrttejä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        },
+        {
+            "name": "Pannukakkua hilloa ja kermavaahtoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Vegaanista ja gluteenitonta pannukakkua ja hilloa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        }
+    ],
+    "Food & Co Oodi": [
+        {
+            "name": "Päivän lounas arkisin klo",
+            "price": "11-14,30 hintaan 13,50",
+            "info": "Hernesosekeittoa ilm Juurespyöryköitä ilm Yrttikermaviilikastiketta ilm Broileria madras chicken ilm Chiliriisiä Paahdettua maissintähkää",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "VS",
+                "L"
+            ]
+        }
+    ],
+    "Vapiano Mikonkatu": [
+        {
+            "name": "Insalata Cesare kanalla tai tofulla",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Insalata Quinoa kanalla tai tofulla",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "V",
+                "L"
+            ]
+        },
+        {
+            "name": "Pasta Crema di Pollo",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pasta Crema di Avocado",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Risotto Scampi Spinachi",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pizza Prosciutto Funghi",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Pääruoka pikkukeitto tai pieni salaatti",
+            "price": "16,40",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kahvi vesi ja ciabatta kuuluu lounaan hintaan",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Morrison's Helsinki": [
+        {
+            "name": "Kanatortillat",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Cheddarkastikkeella",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Aurajuustoburger",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Naudan täyslihapihvi aurajuustoa",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kurkkumajoneesia",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Salaattia tomaattia",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Ja marinoitua punasipulia",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kanaaurajuustopasta",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Paistettua lohta",
+            "price": "15,50",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Hollandaisekastikkeella",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Pariloitua kanaa tai",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Paneroitu porsaanleike",
+            "price": "14,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Valitsemallasi kastikkeella",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kantarelli tai choron tai maustevoi tai hollandaise",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Viherhedelmäsalaatti",
+            "price": "14,50",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Salaattisekoitus kurkku tomaatti paprika marinoitu punasipuli",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Hedelmiä ja talon salaatinkastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Valitse täyte kana tai vuohenjuusto tai halloumi",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lehtipihvi",
+            "price": "19,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Naudan ulkofileetä ranskalaisilla ja maustevoilla",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Burgeri ja leike saatavana gluteenittomana",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kysy lisää gluteenittomista kasvis ja vegaanisista vaihtoehdoista",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Don Corleone": [
+        {
+            "name": "Insalata italiana",
+            "price": "13,50",
+            "info": "Mozzarellasalaatti",
+            "allergens": []
+        },
+        {
+            "name": "Spaghetti alla carbonara",
+            "price": "13,50",
+            "info": "Spagettia pekoni kananmuna parmesanikastikkeella",
+            "allergens": []
+        },
+        {
+            "name": "Penne arrabbiata",
+            "price": "14,20",
+            "info": "Penne pastaa chili valkosipuli basilika tomaattikastikkeella",
+            "allergens": []
+        },
+        {
+            "name": "Cannelloni al forno",
+            "price": "14,80",
+            "info": "Pinaatti ricotta cannelloneja kermaisella tomaattikastikkeella",
+            "allergens": []
+        },
+        {
+            "name": "Pollo ai peperoni",
+            "price": "16,90",
+            "info": "Grillattua broilerin rintafilettä kermaisella paprikakastikkeella",
+            "allergens": []
+        },
+        {
+            "name": "Salmone ai arancia",
+            "price": "17,90",
+            "info": "Grillattua merilohta kermaisella appelsiinikastikkeella",
+            "allergens": []
+        },
+        {
+            "name": "Fegato al salvia",
+            "price": "17,90",
+            "info": "Salvia voissa paistettua naudan maksaa",
+            "allergens": []
+        }
+    ],
+    "Santa Fe": [
+        {
+            "name": "Lounaan hintaan sisältyy salaattipöytä sekä kahvi tee",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "KEBAB",
+            "price": "13,50",
+            "info": "Lempeän tulista tomaattikastiketta limeriisiä ja ranskankermaa",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "GRILLATTUA KANAA",
+            "price": "14,50",
+            "info": "Ranskalaisilla ja valitsemallasi kastikkeella Pippurikastike tai Bearnaisekastike tai BBQkastike",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "KREIKKALAINEN SALAATTI",
+            "price": "14,50",
+            "info": "Salaattia fetaa kirsikkatomaatteja kurkkua punasipulia paprikaa oliiveja ja yrttiöljyä Valitse täyte Kana tai Lohi",
+            "allergens": [
+                "G",
+                "VL"
+            ]
+        },
+        {
+            "name": "TEXAS BURGER",
+            "price": "14,50",
+            "info": "Naudan täyslihapihvi marinoitua punasipulia salaattia tomaattia pekonia aiolia ja cheddarkastiketta Kaveriksi ranskalaisia perunoita",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "PAISTETTUA LOHTA",
+            "price": "15,50",
+            "info": "Lohkoperunoita tomaattisalaattia ja avokadojogurttikastiketta",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "PEPPER STEAK",
+            "price": "19,50",
+            "info": "ulkofileepihvi pippurikastiketta lohkoperunoita ja lämpimiä kasviksia",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Vaihda lisuke Paistetut kasvikset tai bataattiranskalaiset",
+            "price": "2,00",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Useimmat annokset saatavana gluteenittomana Kysy lisää gluteenittomista kasvis ja vegaanisista vaihtoehdoista",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Bruuveri": [
+        {
+            "name": "Hernekeittoa saunapalvikyljellä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Juustomakaronia ja savuchilikassleria",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lohta ja tillihollandaisea",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "VL"
+            ]
+        },
+        {
+            "name": "Herkkusieniparsakaalipaistosta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M",
+                "V"
+            ]
+        },
+        {
+            "name": "Keitettyä perunaa riisiä ja lämpimiä kasviksia",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Pauli's Pizza & Grill": [
+        {
+            "name": "Lounasbuffet",
+            "price": "14,90",
+            "info": "Parmesaanikanaa ja yrttiperunalohkot Tofukukkakaalikastike Pizzalajitelma",
+            "allergens": [
+                "VE",
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Ravintola Caverna": [
+        {
+            "name": "Kalaleike tartarkastike",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Kanapestokastike",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lammas pyörykät",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Possuherkkusienikastike",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Uunikasvikset",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Persiljaporkkanat",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Wokkikasvikset",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Sianlihan kylkiluupaisti",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Härkää soijakastikkeessa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Punacurry kanaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Tofua ja salottisipulia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Höyrytettyä kalaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Friteerattua kanaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "Kevätrullia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "Friteerattuja sipulirenkaita",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "Paistettuja kasviksia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Paistettua riisiä kasviksia ja kananmunaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Paistettua nuudelia ja kasviksia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "Katkarapulastu",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "KEITOT",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Pho",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "PIZZAT",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Liha",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kasvis",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "SUSHILAJITELMA",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "SALAATTIPÖYTÄ",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "JÄLKIRUOKALAJITELMA",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Runsas lounasbuffeemme maksaa Muutokset ruokalistaan ovat mahdollisia",
+            "price": "16,90",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Sori Taproom": [
+        {
+            "name": "Ei lounasta",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Ravintola Aallon Huippu": [
+        {
+            "name": "Buffet menu aallon huippu",
+            "price": "U",
+            "info": "Talon porkkanalehtikaalipihvejä ilm Vegaanista pestoa Broileria ja jogurttia madras chicken Basmatia Satokauden kasviksia Omenastrudelia Vaniljakastiketta",
+            "allergens": [
+                "VEG",
+                "G",
+                "M",
+                "VS",
+                "L"
+            ]
+        },
+        {
+            "name": "Kaurainen ciabatta",
+            "price": "U",
+            "info": "Kurpitsansiemenfocaccia",
+            "allergens": [
+                "VEG",
+                "L"
+            ]
+        }
+    ],
+    "Linkosuo Alvar": [
+        {
+            "name": "Härkälasagnea",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Seitiä slaavilaisessa kastikkeessa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Siemenpyöryköita paprikamajoneesia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG"
+            ]
+        },
+        {
+            "name": "Punajuurikeittoa kurpitsansiemenöljyä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        },
+        {
+            "name": "Kauraomenapaistosta vaniljakastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Chefs annos grillistä porsaan lehtipihvi lohkoperunoilla bearnaisea",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Beef lasagna",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Saithe slavic style",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Seed rissole sweet pepper mayonnaise",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG"
+            ]
+        },
+        {
+            "name": "Beetroot soup pumpkin oil",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "G"
+            ]
+        },
+        {
+            "name": "Apple oat bake vanilla sauce",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Chefs portion from the grill pork minute steak with potato wedges bearnaise",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Tapas BarCelona": [
+        {
+            "name": "Lounasbuffet",
+            "price": "13,50",
+            "info": "Salaattipöytä Paneroitua seitiä tartarkastiketta ja perunamuusia Paahdettua paprikakeittoa",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Belge": [
+        {
+            "name": "Kookoksinen vihreä curry belugalinssejä ja riisiä",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Ylikypsää häränrintaa vihannesstoemp ja piparjuurikastiketta",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        }
+    ],
+    "Robert's Coffee Bubbles Corner": [
+        {
+            "name": "Puurobuffet klo",
+            "price": "5,50",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "Lounasbuffa",
+            "price": "14,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Runsas salaattipöytä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Päivän keitto Naudanlihagulassikeittoa smetanaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "name": "Couscousilla kasviksilla ja fetajuustolla täytetyt paprikat tsatsikia paahdettua perunaa ja kasviksia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Toscapiirakkaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Puurobuffamme klo sisältää päivän puuron marjoja ja muita herkullisia lisukkeita",
+            "price": "5,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lounasbuffamme hinta sisältäen kaikki lounasbuffamme tuotteet sekä kahvinteen",
+            "price": "14,50",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "La Torrefazione Fratello": [
+        {
+            "name": "Paahdettu vuohenjuustosalaatti",
+            "price": "13,50",
+            "info": "Paahdettuja viinirypäleitä ja punajuurta kirsikkatomaattia paahdettua saksanpähkinää ja vinegrettiä",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Pasta carbonara",
+            "price": "13,90",
+            "info": "Rapeaa pekonia fin parmesaanikananmunacremeä rucolasalaattia ja parmesaania",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Tomaattimozzarellarisotto",
+            "price": "14,90",
+            "info": "Grillattua kirsikkatomaattia marinoitua mozzarellaa ja rapeaa parmesaania",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paahdettua kukkakaalia vihreää tahinia",
+            "price": "15,90",
+            "info": "Masalapaahdettua kukkakaalia vihreää yrttitahinia ajvarkastiketta bataatticevicheä rapeaa sipulia ja bulgursalaattia",
+            "allergens": [
+                "VE"
+            ]
+        },
+        {
+            "name": "Pinsaperjantai",
+            "price": "14,90",
+            "info": "Sienitryffeli salamimozzarella kolme juustoa sis pähkinä Tarjoillaan sivusalaatin kanssa",
+            "allergens": [
+                "VE",
+                "L"
+            ]
+        }
+    ],
+    "Hobo Helsinki": [
+        {
+            "name": "Hunters steak minced beef steak mushroom sauce mashed potatoes",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Halloumibeetroot steak mushroom sauce mashed potatoes",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Arthur": [
+        {
+            "name": "Parsakaalijuustokeitto tai broccoli soup with cheese",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kanaa sataykastikkeessa tai satay chicken",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Basmatiriisiä tai basmati rice",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kreikkalaista kasvisorzoa tai greek vegetable orzo",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "Finlandia Cafe & Wine": [
+        {
+            "name": "Lammaskaalikeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Factory Kamppi": [
+        {
+            "name": "Hernekeittoa pilkottua sipulia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Factoryn italialaiset lihapullat kaprisviikunakastikkeella rosmariini paahdetut perunat",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G",
+                "L",
+                "VS"
+            ]
+        },
+        {
+            "name": "Sitruunakanarisotto parmesan hunnulla",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "VL",
+                "VS"
+            ]
+        },
+        {
+            "name": "Mausteinen pepperonipaprikapasta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VL",
+                "VS"
+            ]
+        },
+        {
+            "name": "Herkkusieniä ja paistettua tofua pinaattikaurakermakastikkeella",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G",
+                "VS"
+            ]
+        },
+        {
+            "name": "Factoryn letut oman keittiön mansikkahillo vaniljavaahto jäätelö",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "UniCafe Porthania": [
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Vegejauhispyöryköitä karamellisoitua sipulikastiketta",
+            "allergens": [
+                "VE"
+            ]
+        },
+        {
+            "name": "Päivän lounas",
+            "price": "U",
+            "info": "Kalapuikot kermaviilikastiketta",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Päivän lounas",
+            "price": "U",
+            "info": "Limonello broileria",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lisuke",
+            "price": "U",
+            "info": "Spaghettia",
+            "allergens": [
+                "VE"
+            ]
+        },
+        {
+            "name": "Päivän lounas",
+            "price": "U",
+            "info": "Chilikatkarapusalaattia",
+            "allergens": [
+                "M",
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Toscanini": [
+        {
+            "name": "Tonnikalatartar ja avocadomoussea",
+            "price": "10",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Melanzane alla parmigiana",
+            "price": "10",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paistettua lohta mustajuuripyreetä ja kantarellikastiketta",
+            "price": "23",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Helmikananrintaa paahdettua perunaa ja arrabiata kastiketta",
+            "price": "23",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Risottoa kuivattua tomaattia vaahdotettua mozzarellaa ja basilikaa",
+            "price": "19",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Suklaa semifreddo mustikkamoussea ja marjoja vegaaninen",
+            "price": "10",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Tiramis",
+            "price": "10",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lounasmenu ruokalajia ruokalajia",
+            "price": "28",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Sodexo Sisäpiha": [
+        {
+            "name": "Lohikeittoa ja talon ruisleipää",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kasvissoijalasagnea ja rucolaa",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Talon pannukakkua ja hilloa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kahvia teetä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        }
+    ],
+    "UniCafe Metsätalo": [
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Pyttipannu peas of heaven kurkkumajoneesi",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Punajuuripyöryköitä ja vaaleaa balsamicokastiketta",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Päivän lounas",
+            "price": "U",
+            "info": "Pestosilakat",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lisuke",
+            "price": "U",
+            "info": "Gluteiinitonta kauraa",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Makeasti",
+            "price": "U",
+            "info": "Marjakiisseliä kauravaahto",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        }
+    ],
+    "Pamela": [
+        {
+            "name": "Rapea tofu",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Avotulella paistettua lohta",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Paistettua kanaa hiiligrillistä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Annosten kanssa tarjoillaan habanerotomaattikastiketta paahdettua perunaa hummusta ja vihersalaattia",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Döner harjun kebab",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Vege tai lihakebabia tomaattiharissakastiketta paahdettua perunaa hummusta ja vihersalaattia",
+            "price": "14,9",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "UniCafe Rotunda": [
+        {
+            "name": "Päivän lounas",
+            "price": "U",
+            "info": "Juustoista juuressosekeittoa",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Pesto beanit bowl",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Avocadolehtikaalitoast",
+            "allergens": [
+                "VE"
+            ]
+        },
+        {
+            "name": "Päivän lounas",
+            "price": "U",
+            "info": "Uunifeta toast",
+            "allergens": [
+                "VL"
+            ]
+        }
+    ],
+    "Ravintola Laurus": [
+        {
+            "name": "Chilipaahdettua kurpitsaa mustapapuquinoaa chilistä avocadokastiketta ja paahdettuja cashewpähkinöitä",
+            "price": "2,95 / 7,30 / 10,40",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G"
+            ]
+        },
+        {
+            "name": "Papuquorn curry basmatiriisiä ja jogurttia",
+            "price": "2,95 / 7,30 / 10,40",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Broilerinjauhelihanachopelti",
+            "price": "2,95 / 7,30 / 10,40",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kahvila civis luomu jalotofu ja avocado poke bowl",
+            "price": "5,00 / 8,80 / 10,40",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G"
+            ]
+        },
+        {
+            "name": "Kahvila civis kevätsipuliperunasosekeittoa fetajuustoa ja härkäpapuja",
+            "price": "2,95 / 6,75",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kahvila civis tomaattimozzarella lounaspatonki",
+            "price": "2,95 / 5,70",
+            "info": "U",
+            "allergens": [
+                "VL"
+            ]
+        }
+    ],
+    "Sodexo Helsingin yliopisto Päärakennus": [
+        {
+            "name": "Chilipaahdettua kurpitsaa mustapapuquinoaa chilistä avocadokastiketta ja paahdettuja cashewpähkinöitä",
+            "price": "2,95 / 7,30 / 10,40",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G"
+            ]
+        },
+        {
+            "name": "Papuquorn curry basmatiriisiä ja jogurttia",
+            "price": "2,95 / 7,30 / 10,40",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Broilerinjauhelihanachopelti",
+            "price": "2,95 / 7,30 / 10,40",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kahvila civis luomu jalotofu ja avocado poke bowl",
+            "price": "5,00 / 8,80 / 10,40",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G"
+            ]
+        },
+        {
+            "name": "Kahvila civis kevätsipuliperunasosekeittoa fetajuustoa ja härkäpapuja",
+            "price": "2,95 / 6,75",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kahvila civis tomaattimozzarella lounaspatonki",
+            "price": "2,95 / 5,70",
+            "info": "U",
+            "allergens": [
+                "VL"
+            ]
+        }
+    ],
+    "Ravintola MyStuu": [
+        {
+            "name": "RIISTAKÄRISTYS KASVISKÄRISTYS",
+            "price": "14",
+            "info": "Perunamuusi puolukka ja maustekurkku",
+            "allergens": []
+        },
+        {
+            "name": "TALON KASVIS FLAMMKUCHEN",
+            "price": "14",
+            "info": "Creme fraiche kesäkurpitsa Gruyre kuivattu aprikoosi rucola ja pikkelöity punasipuli",
+            "allergens": []
+        },
+        {
+            "name": "Lounaan hinta",
+            "price": "14",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Sisältää pienen alkusalaatin ja suodatinkahvin",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Tiistaista torstaihin lounaalla saatavilla myös PANEROITU SCHNITZEL ranskalaisilla MYSTUUSALAATTI",
+            "price": "17",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lounaan yhteydessä pieni viini tai olut",
+            "price": "5",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Erikoiskahvit",
+            "price": "2",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "UniCafe Soc&Kom": [
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Karibian kasvispihvejä mangoananassalsaa",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Luomutofua ja pinaattia palak paneer",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Päivän lounas",
+            "price": "U",
+            "info": "Lohilasagnea",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Makeasti",
+            "price": "U",
+            "info": "Kauraomenapaistos kanelivaahdolla",
+            "allergens": [
+                "VE"
+            ]
+        }
+    ],
+    "Pompier Espa": [
+        {
+            "name": "Runsas salaattipöytä sekä kermaista kirjolohikeittoa ja tilliruohosipuligremolataa",
+            "price": "15",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kaikki herkut",
+            "price": "25",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Take away salaatit pompierin herkkubowl siitakesienikukkakaali tai caesar kananpojalla",
+            "price": "13",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "il Siciliano Espa": [],
+    "Antell Arkadia": [
+        {
+            "name": "Lounasbuffet",
+            "price": "U",
+            "info": "Kanapyöryköitä Lempeän tulista kastiketta Palapaistia Punajuurihamppupihvejä",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lämmin lisäke",
+            "price": "U",
+            "info": "Paahdettuja perunoita ja juureksia",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Keittolounas",
+            "price": "U",
+            "info": "Inkivääriporkkanakeittoa",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Jälkiruoka",
+            "price": "U",
+            "info": "Kahvitee Marjahillo Itte tehtyä ahvenanmaan pannukakkua",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Pompier Albertinkatu": [
+        {
+            "name": "Fishmash pompierin kalapuikko tartarkastiketta minttuherneitä ja perunamuusia",
+            "price": "14",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Runsas salaattipöytä sekä hernekeittoa ja pannukakkua",
+            "price": "14",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kaikki herkut",
+            "price": "19",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Sofia": [
+        {
+            "name": "Paistettua punaahventa kauden kasviksia ja bruschettatomaattia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Oliivisitruunamarinoitua tofua kauden kasviksia ja bruschettatomaattia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        }
+    ],
+    "Food & Co Hanken": [
+        {
+            "name": "Kasvislounas",
+            "price": "U",
+            "info": "Kreikkalaista fetapataa ilm Paahdettua perunaa ilm",
+            "allergens": [
+                "VEG",
+                "G",
+                "M",
+                "VL",
+                "L"
+            ]
+        },
+        {
+            "name": "Keittolounas",
+            "price": "U",
+            "info": "Hernekeittoa ilm Pannukakkua ja hilloa",
+            "allergens": [
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lounas",
+            "price": "U",
+            "info": "Fenkolilla ja basilikalla maustettua broileripastaa",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Erikoisannos",
+            "price": "U",
+            "info": "Persiljalimemajoneesia Juustokuorrutettu tonnikalaleipä Maalaisranskalaisia",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Ravintola Bröd Punavuori": [
+        {
+            "name": "Tomaattivuohenjuustokeittoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Fish and chips turskaa ja tartarkastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "Kasviskofta ja minttujogurttikastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V",
+                "L"
+            ]
+        },
+        {
+            "name": "Maalaisranskalaisia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Päivän jälkiruoka",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Sunn": [
+        {
+            "name": "Sunnin lohikeitto",
+            "price": "15",
+            "info": "Sunns salmon soup",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paahdettu sienirisotto",
+            "price": "15",
+            "info": "Roasted mushroom risotto",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Päivän kala",
+            "price": "15",
+            "info": "Fish of the day",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Artisokkalehtikaalisalaatti",
+            "price": "15",
+            "info": "Artichoke and kale salad",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        }
+    ],
+    "Mekong": [
+        {
+            "name": "Lunch buffet",
+            "price": "12,7",
+            "info": "Lunch buffet includes salad bar teacoffee and desert",
+            "allergens": []
+        },
+        {
+            "name": "Ph ti nm beef pho soup",
+            "price": "16,90",
+            "info": "Traditional vietnamese pho rice noodles soup with beef fillet and brisket prepared in southern style",
+            "allergens": []
+        },
+        {
+            "name": "Bn tht xo contains peanuts",
+            "price": "14,90",
+            "info": "Lemongrass stirfried pork tenderloin served with rice noodles roasted peanuts green salad pickled carrot and daikon and sweet fish sauce",
+            "allergens": []
+        },
+        {
+            "name": "tiu chay vegan soup contains peanuts celery soya wheat",
+            "price": "15,90",
+            "info": "tiu tapioca noodles in vegetable broth topped roasted peanuts mushroom bean curd fried vegan wonton soy sausage fried onions and sliced tofu",
+            "allergens": []
+        },
+        {
+            "name": "Vegan ph",
+            "price": "U",
+            "info": "Rice noodles in vegetable broth topped vegan chicken mushroom tofu mung sprouts and herbs",
+            "allergens": []
+        }
+    ],
+    "Block by Dylan": [
+        {
+            "name": "Hernekeittoa palvikinkkua tuoretta sipulia ja sinappia",
+            "price": "9,90",
+            "info": "U",
+            "allergens": [
+                "V",
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Pannupihvejä ja tummaa sipulikastiketta",
+            "price": "14,90",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Punaahventa ja chimichurria",
+            "price": "14,90",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Kermaperunoita",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Porkkanaohukaiset ja puolukka",
+            "price": "14,90",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pannukakkua kermavaahtoa ja talon hilloa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V",
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "KuuKuu": [
+        {
+            "name": "Hernekeittoa ja pannukakkua tai pyttipannua",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Pea soup and pancake or meat potato hash",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Yuwa´s": [
+        {
+            "name": "GREEN CURRY",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Valitse possu tai tofu",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kookosliemessä porkkanaa paprikaa sipulia bambunversoja ja korianteria",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Tarjoillaan jasminriisin kera",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "PHAD GRA PRAWN",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Valitse nauta tai tofu",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Paistettua nauta tai tofua chilillä ja basilikalla maustettuna Lisäksi porkkanaa bambua paprikaa ja valkosipulia",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Tarjoillaan Jasmiiniriisin kera",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "PHAD PRIEW WAN",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Valitse kana tai tofu",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Paistettua kanaa tai tofua hapanimeläkastikkeessa Lisäksi porkkanaa tomaattia paprikaa ja sipulia",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Tarjoillaan Jasmiiniriisin kera",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "YUWAS TACO",
+            "price": "14,90",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Valitse kana tai tofu",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Rotitortilla valitsemallasi täytteellä kana tai tofu Avokadoa ituja salaattia korianteria limeä ja frittisipulia maustettuna minttujogurtilla hoisinkastikkeella ja chilimajoneesilla",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lounaaseen sisältyy lisäksi salaattibuffet päivän keitto ja jälkiruokapöytä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Monal": [
+        {
+            "name": "samosa",
+            "price": "U",
+            "info": "Perunaherne täytettyä kasvispasteijaa",
+            "allergens": [
+                "VEG"
+            ]
+        },
+        {
+            "name": "Chicken korma",
+            "price": "U",
+            "info": "Kananrintafile paloja kerma curry kastikkeessa",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Pork masala",
+            "price": "U",
+            "info": "Porsananlihaa sipuli valkosipuli kastikkeessa",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Alu jeera vegan",
+            "price": "U",
+            "info": "Peruna ja cumina sipuli ja tomaatti intialaisia mausteilla",
+            "allergens": []
+        },
+        {
+            "name": "Dal of the day vegan",
+            "price": "U",
+            "info": "Perinteisesti maustettuja päivän linssejä sipulia valkosipulia ja tuoreita tomaatteja",
+            "allergens": []
+        }
+    ],
+    "UniCafe Olivia": [
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Pestokasvislasagnea",
+            "allergens": [
+                "VE"
+            ]
+        },
+        {
+            "name": "Vegaani",
+            "price": "U",
+            "info": "Mosambikilainen pähkinäkikhernepata",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Päivän lounas",
+            "price": "U",
+            "info": "Kotimaisia kahden kalan pyöryköitä miedon tulista hernemojokastiketta",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Makeasti",
+            "price": "U",
+            "info": "Pappilan hätävara",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Tiedoitus",
+            "price": "U",
+            "info": "Otamme vastaan vain korttimaksuja",
+            "allergens": []
+        }
+    ],
+    "Bank Lunch Club": [
+        {
+            "name": "Grillattua jyväkananpojanrintaa kantarellipolentaa ja punaviinikastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paahdettua lohta timjamiperunaa ja tartarkastiketta naattiporkkanaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Stifado nyhtökaurasta timjamiperunaa vegaaninen",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Hernekeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Pannukakku mansikkahillo kermavaahto kysy keittiöstä gluteeniton",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Bank vuotta vadelmakakkua pannukakku mansikkahillo kermavaahto kysy keittiöstä gluteeniton",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "Himalaya": [
+        {
+            "name": "Tofu chilli",
+            "price": "12,90",
+            "info": "Tofu capsicum and onion in chilli sauce",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paneer masala",
+            "price": "13,50",
+            "info": "Unripened cheese pieces in masala sauce",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kukhura korma",
+            "price": "13,50",
+            "info": "Chicken fillet strips in currycreamcashew sauce",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Khasi karahi",
+            "price": "13,50",
+            "info": "Lamb with capsicum pieces in tomato masala sauce",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Butter prawns",
+            "price": "13,50",
+            "info": "King prawns in tomato butter and cream sauce",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Mix khana",
+            "price": "14,90",
+            "info": "Select two dishes above no to make one combined portion",
+            "allergens": []
+        },
+        {
+            "name": "Todays speciallamb tikka masala",
+            "price": "17,90",
+            "info": "Herb yogurt marinated tandoori oven grilled chicken",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Perho": [
+        {
+            "name": "Mausteinen siskonmakkarakeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Paistettua lohta kermaan muhennettua pinaattia ja uuden sadon perunaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paahdettua kukkakaalia kermaan muhennettua pinaattia ja uuden sadon perunaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V",
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Southpark": [
+        {
+            "name": "Päivän keitto",
+            "price": "12,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Linssikeittoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lentil soup",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Minne Garden & Lounge": [
+        {
+            "name": "Marokkolaista porkkanakeittoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Pääruokavaihtoehdot lautasannoksena",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Paistettua broilerin rintaa serranokinkkusalviakastiketta ja gnoccheja",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Papu ballotine salviakastiketta ja paahdettua perunaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        }
+    ],
+    "Juttutupa": [
+        {
+            "name": "Omenasiiderissä haudutettua porsaanniskaa ja yrteillä maustettua riisiä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Falafeleja ja hummusta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Perinteistä hernekeittoa ja pannukakkua",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V",
+                "L"
+            ]
+        }
+    ],
+    "HALO food & events": [
+        {
+            "name": "Pick it",
+            "price": "13,50",
+            "info": "Halon lasagnea marinarakastiketta ja persiljaöljyä saatavilla",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Choose it",
+            "price": "13,50",
+            "info": "Savustettua bbq jalotofua sitruunaaiolia ja ranskalaisia saatavilla",
+            "allergens": [
+                "VE",
+                "M",
+                "G"
+            ]
+        },
+        {
+            "name": "Love it",
+            "price": "14,20",
+            "info": "Pannupaistettua kirjolohta miso hapankermaa paahdettua parsakaalia ja porkkanaa saatavilla",
+            "allergens": [
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Soup it",
+            "price": "12,50",
+            "info": "Halon hernekeittoa ja sinappia",
+            "allergens": [
+                "VE",
+                "M",
+                "G"
+            ]
+        }
+    ],
+    "Sodexo Kiltakellari": [
+        {
+            "name": "Mifuratatuille",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G"
+            ]
+        },
+        {
+            "name": "Jauhelihalasagne",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kellarin kujabistro kts erillinen menu",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kahvi ja tee",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        }
+    ],
+    "Tiedekahvila": [
+        {
+            "name": "Lihapullat sienikastikkeessa perunamuusia Kasvispyöryköitä ja yrttikastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "La Torrefazione Hakaniemi": [
+        {
+            "name": "Kanacaesarsalaatti saat",
+            "price": "13,50",
+            "info": "Paahdettua kanaa romainesalaattia valkosipuliyrttikrutonkeja caesardressing ja parmesanlastuja",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Avokadopasta",
+            "price": "13,90",
+            "info": "Avokadokastike oliivirouhetta marinoituja tomaatteja parmesaania ja ruohosipulia",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Lohirisotto",
+            "price": "14,50",
+            "info": "Merilohta nor sitruunaa tillivoita parmesaania ja ruohosipulia",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Glaseerattua porsaankylkeä aasialaisittain",
+            "price": "15,90",
+            "info": "Glaseerattua porsaankylkeä fin jasmiiniriisiä coleslawia paahdettua sipulia ja korianteria",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pinsaperjantai",
+            "price": "14,90",
+            "info": "Sienitryffeli salamimozzarella kolme juustoa sis pähkinä Tarjoillaan sivusalaatin kanssa",
+            "allergens": [
+                "VE",
+                "L"
+            ]
+        }
+    ],
+    "Zinnkeller": [],
+    "B5 Black Töölö": [
+        {
+            "name": "Lihapullat mojo rojo meatballs mojo rojo",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Naudan lihapullat paahdettua paprikakastiketta ja kanarian perunoita",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Beef meatballs roaster paprika sauce and canary potatoes",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lihan alkuperämaa suomi the country of origin of the meat is finland",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Hernekeittoa pea soup",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Lihan alkuperämaa suomi the country of origin of the meat is finland",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Pannukakkua hilloa ja kermavaahtoa pancake jam and whipped cream",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Pihka Meclu": [
+        {
+            "name": "Kalapyöryköitä kantarellikastikkeessa porkkanaröstejä höyrytettyä perunaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "name": "Tofukasviswokkia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Perinteistä jauhelihakeittoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Vadelmamoussea ja rapeaa granolaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Aamupala kanelikaurapuuroa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        }
+    ],
+    "Sävel": [
+        {
+            "name": "Hernekeittoa ja pannukakkua",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "K",
+                "L"
+            ]
+        },
+        {
+            "name": "Lihapullia ja yrttikermakastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Perunamuusia ja paahdettua bataattia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "K",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Pastaa pestoa ja vuohenjuustoa",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "K"
+            ]
+        },
+        {
+            "name": "Classic burger ja ranskalaiset",
+            "price": "16,00",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Porsaanleike bearnaisekastiketta ja tiristettyäperunaa",
+            "price": "19,00",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "Lasiranta": [
+        {
+            "name": "Ryhmät hlö klo",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Buffet kanaa ja rakuunadijonkastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "P",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kukkakaalicurrypyörykät ja kurkkukastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "P",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Keitto bataattikookoskeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "P",
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Salaatti paahdettu ananasfetasalaatti",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "P",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Vegaani kukkakaalicurrypyörykät ja kurkkukastike",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "P",
+                "G"
+            ]
+        },
+        {
+            "name": "Hinnat",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Buffetlounas",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Vegaanilounas",
+            "price": "13,00",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Keitto ja salaattilounas",
+            "price": "12,50",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Salve": [
+        {
+            "name": "Hernekeittoa",
+            "price": "11,50",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Riistakäristystä perunamuusia ja puolukkahilloa",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Paneroitua turskaa perunamuusia ja hollandaisea",
+            "price": "14,20",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        }
+    ],
+    "Niska Helsinki, Katajanokka": [
+        {
+            "name": "Ilmakuivattua kinkkua herkkusieniä rucolaa",
+            "price": "13,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Vuohenjuustoa marinoitua punasipulia rucolaa",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Niskan salaatit",
+            "price": "13,50",
+            "info": "Kana vuohenjuusto kylmäsavulohi tai hernis",
+            "allergens": []
+        }
+    ],
+    "Lohtu": [
+        {
+            "name": "Lämmin",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Mausteista punajuurilinssipataa yrttibulguria sekä paahdettua saksanpähkinää dukkahia appelsiinijogurttikastiketta ja minttua",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V"
+            ]
+        },
+        {
+            "name": "Salaatti",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Paahdettua ruusukaalia ja myskikurpitsaa kermaista tahinikastiketta paahteista tofua rapeita siemeniä omenaa ja rucolaa",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Keitto",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Julkaistaan facebookissainstagramissa samana päivänä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "daVinci Bar & Ristorante Hakaniemi": [
+        {
+            "name": "Pollo pesto pastaa kana kermaisessa basilikapestossa",
+            "price": "11,90",
+            "info": "Chicken pasta in creamy basil pesto",
+            "allergens": []
+        },
+        {
+            "name": "Spagetti alla carbonara",
+            "price": "12,40",
+            "info": "Spaghetti alla carbonara",
+            "allergens": []
+        },
+        {
+            "name": "Gamberetto pastaa parmankinkkua ja katkarapuja kermaisessa tomaattikastikkeessa",
+            "price": "12,70",
+            "info": "Gamberetto pasta with parmaham and shrimps in creamy tomatosauce",
+            "allergens": []
+        },
+        {
+            "name": "Broilerin rintafilee kermaisella sitruunakastikkeella ja ranskalaisia",
+            "price": "13,50",
+            "info": "Chicken breast with creamy lemonsauce and fries",
+            "allergens": []
+        },
+        {
+            "name": "Naudan ulkofileepihvi kermaisella valkosipulikastikkeella ja rosmariiniperunoita",
+            "price": "13,90",
+            "info": "Fillet of beef with cremy garlic sauce and rosemary potatoes",
+            "allergens": []
+        },
+        {
+            "name": "Tiramisu",
+            "price": "6,50",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Konttiravintola Morton Helsinki": [
+        {
+            "name": "Little John Burger ateria",
+            "price": "13,90",
+            "info": "Burgeri Peltolan Bluesinihomejuustolla maustekurkulla ja punasipulihillokkeella Ranut ja dippiä Pihvivaihtoehdot Naudanliha TAI Mortonin porkkanapellavapihvi Saatavilla myös vegaanisena jatai gluteenittomana",
+            "allergens": [
+                "VL"
+            ]
+        },
+        {
+            "name": "Saran salaatti",
+            "price": "13,90",
+            "info": "Salaatti fetajuustolla retiisillä harissamarinoiduilla linsseillä granaattiomenan siemenillä mansikkavalkosipulihillokkeella ja sitruunaaiolilla Valitse kanan rintafilee tai Mortonin porkkanapellavapihvi Saatavilla myös vegaanisena",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lasten lounasburgeri",
+            "price": "8,90",
+            "info": "Lasten burgeri naudanlihapihvillä cheddarjuustolla ketsupilla ja majoneesilla Ranut ja ketsuppia Saatavana gluteenittomana",
+            "allergens": [
+                "VL"
+            ]
+        },
+        {
+            "name": "Päivän burgeriateria tai salaatti Päivän burgeri Lasten lounasateria",
+            "price": "13,90",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Myös Mortonin aamupalamenu saatavilla koko päivän hintaan",
+            "price": "17,90",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Syö paikan päällä tai nouda mukaan Pöytävaraukset isommille ryhmille täältä httpsmortonresoscombooking tai soittamalla Tervetuloa lounaalle",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Soup+More": [
+        {
+            "name": "The greensoup vihreä kasviskeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Slaavilainen lihakeitto smetana aurajuusto",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Talon bouillabaisse lohiäyriäiskeitto aioli",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        }
+    ],
+    "Gresa": [
+        {
+            "name": "Currykananpoikaa gresan tapaan mausteisen riisin ja talon naanleivän kera",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Gresas curried chicken with spiced rice and house made naan bread",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Sillikakkusia ja remouladea unelmankevyen perunamuusin ja aiolin kera",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Herring cakes and remoulade with dreamy light potato mash and aioli",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kasvischorizoenchilladat mausteisen riisin ja chimichurrin kera",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Veggie chorizo enchilladas with spiced rice and chimichurri",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pannukakkua kermavaahtoa ja mansikkahilloa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pancake creme chantilly and strawberry jam",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "Antell Femma": [
+        {
+            "name": "Lounasbuffet",
+            "price": "13,50",
+            "info": "Perinteistä hernekeittoa Porsaan grillipihvejä Itte tehtyä maustevoita Kasviskormaa",
+            "allergens": [
+                "G",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "name": "Lämmin lisäke",
+            "price": "U",
+            "info": "Höyrytettyä kukka ja parsakaalta Maalaislohkoperunoita",
+            "allergens": [
+                "VEG",
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Jälkiruoka",
+            "price": "U",
+            "info": "Kahvi Antellin pannukakkua Kermavaahtoa Mansikkahillo",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Bistro O Mat Hakaniemi": [
+        {
+            "name": "Myskikurpitsakeitto",
+            "price": "11,50",
+            "info": "Paahdettua myskikurpitsakeittoa rapeaa kurpitsansiemeniä ja smetanaa Roasted butternut squash soup crunchy pumpkin seeds and sour cream",
+            "allergens": [
+                "VEG",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Tartar",
+            "price": "14",
+            "info": "Härkätartaria pyöröpaistista pikkelöityä sipulia mustapippurimajoneesia ja raikasta salaattia Ranskalaiset perunat ja aiolia Roast beef tartare pickled onion black pepper mayonnaise and fresh salad French fries and aioli",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Pannupihvi",
+            "price": "17",
+            "info": "Pannupihvi häränlihasta timjamivoissa paahdettua perunaa pippurikermakastiketta puolukkaa ja suolakurkkua Panfried beef pattie roasted potatoes in thyme butter pepper cream sauce lingonberries and pickled cucumber",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lohi",
+            "price": "18",
+            "info": "Kevyesti savustettua lohta piparjuurihollandaisea ja perunapyreetä Lightly smoked salmon horseradish hollandaise and mashed potatoes",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Sienirisotto",
+            "price": "15,50",
+            "info": "Täyteläistä metsäsienirisottoa ruohosipulia ja parmesaania Fullbodied wild mushroom risotto chives and parmesan cheese",
+            "allergens": [
+                "VEG",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Päivän jälkiruoka",
+            "price": "U",
+            "info": "Dessert of the day",
+            "allergens": []
+        },
+        {
+            "name": "Kolmen ruokalajin menu",
+            "price": "U",
+            "info": "Threecourse menu",
+            "allergens": []
+        }
+    ],
+    "Raiku": [
+        {
+            "name": "Karitsabolognese juustomakaroni spaghetti",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Paahdettu kurpitsa pähkinävuoka",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Trattoria Sogno": [
+        {
+            "name": "Äyriäisrisotto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Uuniperunaa sienitäytteellä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Maalaissalaattia savulohella",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Ala cart pizzat",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Ravintola Oiva": [
+        {
+            "name": "Hernekeittoa ja pannukakkua",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Ravioleja ja pestoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Välimeren broilerimurekeketta ja basilikatomaattikastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Pyttipannua ja paistettuja kananmunia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G"
+            ]
+        },
+        {
+            "name": "Pe",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Savulohikeittoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kasvispihvejä ja yrttikermaviiliä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Jauhelihamakaronilaatikkoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Havaijin leikkeitä leivitettyjä porsaanleikkeitä paistettua ananasta ja maustevoita",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "name": "Tuoreen lihan alkuperä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Nauta suomi saksa",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Porsas suomi saksa",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Kana suomi brasilia",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Pidämme oikeuden mahdollisiin muutoksiin menussa",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "gluteeniton",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "laktoositon",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "vähälaktoosinen",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VL"
+            ]
+        },
+        {
+            "name": "maidoton",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M"
+            ]
+        },
+        {
+            "name": "vegaaninen",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V"
+            ]
+        },
+        {
+            "name": "Lisätietoja allergeeneista ja elintarvikkeiden alkuperästä saat henkilökunnalta",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Dylan Linjat": [
+        {
+            "name": "Siirapilla glaseerattuja lihakaalikääryleitä paistinkastikkeessa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Meheviä punajuuripihvejä ja rakuunadippiä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Voilla höystettyä perunamuusia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paahdettuja perunoita",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Suussa sulavaa mariannesuklaamoussea saatavana myös vegaaninen jälkiruoka vaihtoehto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Huom avoinna vain kuntamarkkinoille osallistuville",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        }
+    ],
+    "Food & Co Ruoholahti": [
+        {
+            "name": "Nordic buffet",
+            "price": "13,30",
+            "info": "Hernesosekeittoa ilm Talon kukkakaalimanchegopihvejä ilm Limekorianteriranskankermaa ilm Katkarapunuudelia ja kasviksia Crispy chicken Currymajoneesia Smoked paprika paahdettuja perunoita ilm Churro Suklaakastiketta Päivän pizza Päivän kasvispizza",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "VS",
+                "L"
+            ]
+        }
+    ],
+    "Sotto Pizza & Bar": [
+        {
+            "name": "Oskarinleike ja choron kastike",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Tomaatti basilika fagottini",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE"
+            ]
+        },
+        {
+            "name": "Kermaperunat",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Grillikasvikset",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        },
+        {
+            "name": "Lohiperunavuoka",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Hernekeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M",
+                "L"
+            ]
+        },
+        {
+            "name": "Pannukakut kermavaahdolla ja mansikkahillolla",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "Ravintola Sewa": [
+        {
+            "name": "Torstai",
+            "price": "U",
+            "info": "Tofu masala vegaani vegan Tofua masalakastikkeessa",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Paneer makhani",
+            "price": "U",
+            "info": "Paneerjuustoa tomaattivoikermakastikkeessa",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Coconut chicken",
+            "price": "U",
+            "info": "Haudutettua kanaa mausteisessa kookos currykastikkeessa",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Chicken lamb masala",
+            "price": "U",
+            "info": "Yrttijogurttimarinoitua ja tandooriuunissa grillattua kanaa ja lampaanjauhelihaa mausteisessa tomaattisipuliinkiväärikastikkeessa",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Prawn makhani",
+            "price": "U",
+            "info": "Jättikatkarapuja tomaattivoikermakastikkeessa",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Rojeko khaja",
+            "price": "U",
+            "info": "Valitse listalta nro yllä kaksi eri ruokalajia samaan annokseen",
+            "allergens": []
+        },
+        {
+            "name": "Todays special lamb chilli",
+            "price": "U",
+            "info": "Haudutettuja lampaanpaloja ja paprikaa sipulivalkosipulitomaattichilikastikkeessa",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Food & Co Kookos Teak": [
+        {
+            "name": "Yrttistä porkkanasosekeittoa",
+            "price": "U",
+            "info": "ilm Paahdettuja siemeniä",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Täysjyvävehnätortillaa",
+            "price": "U",
+            "info": "Mausteista vönertäytettä ilm",
+            "allergens": [
+                "VEG",
+                "M",
+                "L",
+                "VS"
+            ]
+        },
+        {
+            "name": "Jälkiruoka",
+            "price": "U",
+            "info": "Tyrnijogurttipannacottaa",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lounas",
+            "price": "U",
+            "info": "Jamaicalaista kanamakkarapataa ilm Paahdettua perunaa ilm",
+            "allergens": [
+                "VEG",
+                "G",
+                "M",
+                "VS",
+                "L"
+            ]
+        },
+        {
+            "name": "Kasvislounas",
+            "price": "U",
+            "info": "Marokkolaisia kasvispihvejä ilm Tzatsikijogurttia Paahdettua perunaa ilm",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "VS",
+                "L"
+            ]
+        }
+    ],
+    "Food & Co Poijut": [
+        {
+            "name": "Buffet",
+            "price": "U",
+            "info": "Mustajuurisosekeittoa ilm Härkistä ja paahdettuja kasviksia teriyakiakastikkeessa ilm Sinappiporsaspataa Jasminriisiä Crispy chicken Amerikkalaista chilimajoneesia Paahdettua juustoperunaa ilm Chilillä maustettua porkkanaa Suklaamoussea",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "VS",
+                "L"
+            ]
+        }
+    ],
+    "Food & Co Roihu": [
+        {
+            "name": "Avocadokirsikkatomaattimaapähkinä pastaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "name": "Punajuuri pestopastaa ja vuohenjuustoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VL"
+            ]
+        },
+        {
+            "name": "Paahdettua kirjolohta ruohosipulikermaviilikastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lisuke",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Paahdettua punakaalia herkkusieniä ja porkkanaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Perunamuusia",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Metsäsienikeittoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "G",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "name": "Jälkiruoka",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Ohukaisia sislaktoosi kananmuna vehnä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Mansikkahillo",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "M",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kermavaahto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Nutella sishasselpählaktoosi",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        }
+    ],
+    "Dylan Milk": [
+        {
+            "name": "Aamiaisella sadonkorjuupuuro",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V",
+                "M"
+            ]
+        },
+        {
+            "name": "Perinteistä hernekeittoa hienonnettua sipulia ja sinappia palvikinkkua",
+            "price": "10,00",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V",
+                "M"
+            ]
+        },
+        {
+            "name": "Mehevää karamellisoitua porsasta",
+            "price": "14,70",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Kookosriisiä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V",
+                "G"
+            ]
+        },
+        {
+            "name": "Ai että limonello katkarapukylmäsavulohipastaa",
+            "price": "14,70",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Maukas munakoisomoussaka",
+            "price": "14,70",
+            "info": "U",
+            "allergens": [
+                "V",
+                "G"
+            ]
+        },
+        {
+            "name": "Jälkiruoka rakkaudella leivottua omppupannukakkua marjahilloa ja kermavaahtoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V",
+                "L"
+            ]
+        }
+    ],
+    "Kulttuuritehdas Korjaamo": [
+        {
+            "name": "Kasvishernekeittoa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "V"
+            ]
+        },
+        {
+            "name": "Paistetut muikut tartarkastiketta ja perunasosetta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kasviskoftapihvi rucolapestoa ja couscous",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V"
+            ]
+        }
+    ],
+    "Faro Ravintola": [
+        {
+            "name": "Porsaan kassleria pippurikastiketta ja perunapyree",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Paahdettua kurpitsaa papuragu piparjuurikreemiä ja kaalisipsiä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Kana caesarsalaatti",
+            "price": "15,00",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Laavakivigrillissä paistettu entrecote pihvi punaviinikastiketta rapeat perunat ja aioli",
+            "price": "23",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Beef burger tuplacheddarilla ranskalaiset ja dippi",
+            "price": "18,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Fish chips muhennettua hernettä ja tartarkastike",
+            "price": "19,50",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ],
+    "Lie Mi Lunch kitchen": [
+        {
+            "name": "Lounas buffet",
+            "price": "13,50",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Lie Mi Salaattipöytä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Tulinen tomaattikeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Shanghai taco päivä",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Naudan sisältyy soija tai rapeat munakoiso Pyydettäessä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V",
+                "L"
+            ]
+        },
+        {
+            "name": "Kasvis samosas",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "V"
+            ]
+        },
+        {
+            "name": "Korealainen kasvismyky",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Mango vanukas",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Kahvila Welldone": [
+        {
+            "name": "Töölö",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Punainen linssikeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lihapullia kermakastikkeessa",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Pinaattiohukaiset puolukkaa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        },
+        {
+            "name": "Mosa",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Savuporokeitto",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Ahventa ja kermaista tillikastiketta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Lämmin punajuurileipäjuustosalaatti",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Onda": [
+        {
+            "name": "Buffet",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Salad buffet",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Best salad buffet in kallio",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Vegan coconut green curry tofu",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G"
+            ]
+        },
+        {
+            "name": "Ragu sauce pork fennel",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Lunch specials",
+            "price": "U",
+            "info": "U",
+            "allergens": []
+        },
+        {
+            "name": "Pistaasipestopasta saa",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VEG",
+                "L"
+            ]
+        },
+        {
+            "name": "Lehtipihvi maustevoi grillattu tomaatti ranskalaiset",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        }
+    ],
+    "Factory Ruoholahti": [
+        {
+            "name": "Hernekeitto palvikinkulla",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Talon lihapullat italialaisessa kirsikkatomaattikermakastikkeessa bataattiperunamuusi",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kanawokki teriyakikastikkeella ja grillatuilla kasviksilla",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "M",
+                "VS"
+            ]
+        },
+        {
+            "name": "Uuniperunat wasabilla höystetyllä tonnikalatäytteellä",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Kukkakaalikikhernemasala tofulla basmatiriisi",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G",
+                "VS"
+            ]
+        },
+        {
+            "name": "Factoryn letut mansikkahillo vaniljavaahto jäätelö",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G",
+                "L"
+            ]
+        },
+        {
+            "name": "Vegaaniset gluteenittomat letut",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "VE",
+                "G"
+            ]
+        }
+    ],
+    "Cafe Carusel": [
+        {
+            "name": "Perinteinen hernekeitto sis lihaa ja pannarit mansikkahillolla",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "G",
+                "M"
+            ]
+        },
+        {
+            "name": "Uunifetapasta",
+            "price": "U",
+            "info": "U",
+            "allergens": [
+                "L"
+            ]
+        }
+    ]
+}
