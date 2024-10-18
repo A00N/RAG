@@ -1,3 +1,4 @@
+import os
 import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import cosine_similarity
@@ -140,5 +141,10 @@ def recommend_lunches(user_preferences, data_file, model_name='paraphrase-multil
         print()
 
 
-user_preferences = " Haluan kanaa tai kasvisruokaa"
-recommend_lunches(user_preferences, 'menu_data_processed.json')
+user_preferences = "Haluan kanaa tai kasvisruokaa"
+base_dir = os.path.dirname(os.path.abspath(__file__))
+data_directory = os.path.join(base_dir, 'data')
+os.makedirs(data_directory, exist_ok=True)
+file_name = f'2024-10-03.json'
+file_path = os.path.join(data_directory, file_name)
+recommend_lunches(user_preferences, file_path)
