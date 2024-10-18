@@ -8,18 +8,19 @@ from selenium.webdriver.support import expected_conditions as EC
 from preprocessing import write_processed_json
 import pandas as pd
 import os
+from dotenv import load_dotenv
 import time
 import json
 import re
 
-CHROMEDRIVER_PATH = "C:/webdrivers/chromedriver.exe"
-
+load_dotenv()
 
 def chrome_setup(headless=False):
     chrome_options = Options()
     if headless:
         chrome_options.add_argument("--headless")  # Run in headless mode
-    service = Service(CHROMEDRIVER_PATH)
+    chrome_driver_path = os.getenv("CHROMEDRIVER_PATH")
+    service = Service(chrome_driver_path)
     driver = webdriver.Chrome(service=service, options=chrome_options)
     return driver
 
