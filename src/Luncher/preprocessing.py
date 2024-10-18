@@ -48,10 +48,14 @@ def process_item(item):
     return item
 
 def write_processed_json():
+
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    data_directory = os.path.join(base_dir, 'data')
+    os.makedirs(data_directory, exist_ok=True)
+
     current_date = datetime.now().strftime('%Y-%m-%d')
-    directory = 'data/'
     file_name = f'{current_date}.json'
-    file_path = os.path.join(directory, file_name)
+    file_path = os.path.join(data_directory, file_name)
 
     # Check if the file exists with the current date and do not create a new file if it does
     if os.path.exists(file_path):
@@ -59,7 +63,8 @@ def write_processed_json():
         return
 
     # Load data
-    with open('menu_data.json', 'r', encoding='utf-8') as file:
+    menu_data_path = os.path.join(base_dir, 'menu_data.json')
+    with open(menu_data_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
 
     # Process data
