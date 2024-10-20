@@ -1,5 +1,5 @@
 import json
-import re
+import regex as re
 import os
 from datetime import datetime
 
@@ -37,8 +37,8 @@ def process_item(item):
         if text == 'U':
             return text
         text = re.sub(r'\s\|\s', ' tai ', text)
-        text = re.sub(r'[^a-zA-ZäöåÄÖÅ\s]', '', text)
-        text = re.sub(r'\b[a-zA-ZäöåÄÖÅ],?\b', '', text)
+        text = re.sub(r'[^\p{L}\s]', '', text)
+        text = re.sub(r'\b\p{L},?\b', '', text)
         text = re.sub(r'\s{2,}', ' ', text)
         return text.strip()
 
@@ -77,5 +77,5 @@ def write_processed_json():
 
     print("Succesfully wrote processed data to file")
 
-# if __name__ == "__main__":
-#     write_processed_json()
+if __name__ == "__main__":
+    write_processed_json()

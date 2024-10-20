@@ -19,9 +19,9 @@
             "allergens": "U"
         },
         {
-            "name": "Entrecte al vino",
+            "name": "Entrecôte al vino",
             "price": "15,90",
-            "info": "Entrecte pihvi punaviini salvia rosmariini voi oliiviöljy sipuli mustapippuri vihannekset ja perunat",
+            "info": "Entrecôte pihvi punaviini salvia rosmariini voi oliiviöljy sipuli mustapippuri vihannekset ja perunat",
             "allergens": "U"
         }
     ],
@@ -31,10 +31,10 @@
             "price": "13,50",
             "info": "Päivän keitto Satokauden kasviksia Kukkakaalimanchegopihvejä ilm Itse tehtyä lihamureketta Päivän pizza Päivän jälkiruoka",
             "allergens": [
-                "L",
-                "VS",
+                "VEG",
                 "M",
-                "VEG"
+                "L",
+                "VS"
             ]
         }
     ],
@@ -74,9 +74,9 @@
             "price": "59,50",
             "info": "Businesslounaan menu kaikki pöytään tarjoiltuna kahvi tee sisältyy menun hintaan Alkuruokana Riimihärkää pikkelöityjä sieniä ja aiolia Pääruokana Taimenta kukkakaalipyreetä ja omenalla maustettua tummaa kastiketta Jälkiruokana Puolukkaparfait ja kinuskia",
             "allergens": [
+                "L",
                 "M",
-                "G",
-                "L"
+                "G"
             ]
         }
     ],
@@ -121,8 +121,8 @@
             "price": "14,90",
             "info": "Sienitryffeli salamimozzarella kolme juustoa sis pähkinä Tarjoillaan sivusalaatin kanssa",
             "allergens": [
-                "VE",
-                "L"
+                "L",
+                "VE"
             ]
         }
     ],
@@ -231,8 +231,8 @@
             "info": "Jauhelihatortilla Kasvistortilla Tulista salsakeittoa",
             "allergens": [
                 "L",
-                "G",
-                "M"
+                "M",
+                "G"
             ]
         },
         {
@@ -277,9 +277,9 @@
             "allergens": "U"
         },
         {
-            "name": "Pizza al rag",
+            "name": "Pizza al ragù",
             "price": "14,60",
-            "info": "Fior di lattemozzarella pecorino romanojuusto naudanliharag basilika öljy",
+            "info": "Fior di lattemozzarella pecorino romanojuusto naudanliharagú basilika öljy",
             "allergens": "U"
         },
         {
@@ -329,7 +329,7 @@
             ]
         },
         {
-            "name": "Tiramis",
+            "name": "Tiramisù",
             "price": "6,50",
             "info": "Talon tiramisu",
             "allergens": "U"
@@ -540,9 +540,9 @@
             "price": "9,90",
             "info": "Lohiavokadosalaatti Paahdettua lohta avokadoa vihersalaattia sitrus vinegretteä punaista linssiä cantaloupemelonia pikkelöityä punasipulia friteerattua lehtikaalia kirsikkatomaattia timjamiporkkanaa viinirypäleitä paahdettua pähkinää ja avokadolimefraichea sispähkinä",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -607,7 +607,7 @@
         {
             "name": "Lasagne al Forno",
             "price": "13,50",
-            "info": "Kuuma kupliva uunissa paistettu lasagne valmistettu jauhelihasta bchamelkastikkeesta silkkisestä pastasta ja päällä sulanutta mozzarellajuustoa",
+            "info": "Kuuma kupliva uunissa paistettu lasagne valmistettu jauhelihasta béchamelkastikkeesta silkkisestä pastasta ja päällä sulanutta mozzarellajuustoa",
             "allergens": [
                 "L"
             ]
@@ -686,9 +686,9 @@
             "price": "15,00",
             "info": "Hernekeittoa Pannukakkua kermavaahtoa ja mansikkahilloa pyydettäessä gluteeniton ohukainen Paahdettua broilerin koipea kookoscurrykastiketta Linssikasviscurrya Vihannesriisiä",
             "allergens": [
+                "VE",
                 "M",
-                "G",
-                "VE"
+                "G"
             ]
         }
     ],
@@ -960,10 +960,10 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -971,10 +971,10 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -1026,8 +1026,8 @@
             "price": "14,90",
             "info": "Sienitryffeli salamimozzarella kolme juustoa sis pähkinä Tarjoillaan sivusalaatin kanssa",
             "allergens": [
-                "VE",
-                "L"
+                "L",
+                "VE"
             ]
         }
     ],
@@ -1151,11 +1151,11 @@
             "price": "11-14,30 hintaan 13,50",
             "info": "Hernesosekeittoa ilm Juurespyöryköitä ilm Yrttikermaviilikastiketta ilm Broileria madras chicken ilm Chiliriisiä Paahdettua maissintähkää",
             "allergens": [
-                "L",
-                "M",
-                "VS",
                 "VEG",
-                "G"
+                "M",
+                "G",
+                "L",
+                "VS"
             ]
         }
     ],
@@ -1529,9 +1529,9 @@
             "price": "14,90",
             "info": "Parmesaanikanaa ja yrttiperunalohkot Tofukukkakaalikastike Pizzalajitelma",
             "allergens": [
+                "VE",
                 "L",
-                "G",
-                "VE"
+                "G"
             ]
         }
     ],
@@ -1770,11 +1770,11 @@
             "price": "U",
             "info": "Talon porkkanalehtikaalipihvejä ilm Vegaanista pestoa Broileria ja jogurttia madras chicken Basmatia Satokauden kasviksia Omenastrudelia Vaniljakastiketta",
             "allergens": [
-                "L",
-                "M",
-                "VS",
                 "VEG",
-                "G"
+                "M",
+                "G",
+                "L",
+                "VS"
             ]
         },
         {
@@ -1782,8 +1782,8 @@
             "price": "U",
             "info": "Kurpitsansiemenfocaccia",
             "allergens": [
-                "L",
-                "VEG"
+                "VEG",
+                "L"
             ]
         }
     ],
@@ -1946,9 +1946,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "L",
                 "M",
-                "G",
-                "L"
+                "G"
             ]
         },
         {
@@ -1956,9 +1956,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "M",
                 "L",
-                "G",
-                "M"
+                "G"
             ]
         },
         {
@@ -2021,8 +2021,8 @@
             "price": "14,90",
             "info": "Sienitryffeli salamimozzarella kolme juustoa sis pähkinä Tarjoillaan sivusalaatin kanssa",
             "allergens": [
-                "VE",
-                "L"
+                "L",
+                "VE"
             ]
         }
     ],
@@ -2100,10 +2100,10 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "VE",
                 "L",
                 "G",
-                "VS",
-                "VE"
+                "VS"
             ]
         },
         {
@@ -2140,9 +2140,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "VE",
                 "L",
-                "G",
-                "VE"
+                "G"
             ]
         }
     ],
@@ -2186,8 +2186,8 @@
             "info": "Chilikatkarapusalaattia",
             "allergens": [
                 "L",
-                "G",
-                "M"
+                "M",
+                "G"
             ]
         }
     ],
@@ -2246,7 +2246,7 @@
             ]
         },
         {
-            "name": "Tiramis",
+            "name": "Tiramisú",
             "price": "10",
             "info": "U",
             "allergens": "U"
@@ -2530,7 +2530,7 @@
         {
             "name": "TALON KASVIS FLAMMKUCHEN",
             "price": "14",
-            "info": "Creme fraiche kesäkurpitsa Gruyre kuivattu aprikoosi rucola ja pikkelöity punasipuli",
+            "info": "Creme fraiche kesäkurpitsa Gruyère kuivattu aprikoosi rucola ja pikkelöity punasipuli",
             "allergens": "U"
         },
         {
@@ -2627,10 +2627,10 @@
             "price": "U",
             "info": "Kanapyöryköitä Lempeän tulista kastiketta Palapaistia Punajuurihamppupihvejä",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -2638,10 +2638,10 @@
             "price": "U",
             "info": "Paahdettuja perunoita ja juureksia",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -2649,10 +2649,10 @@
             "price": "U",
             "info": "Inkivääriporkkanakeittoa",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -2711,11 +2711,11 @@
             "price": "U",
             "info": "Kreikkalaista fetapataa ilm Paahdettua perunaa ilm",
             "allergens": [
-                "L",
-                "M",
-                "VL",
                 "VEG",
-                "G"
+                "M",
+                "G",
+                "VL",
+                "L"
             ]
         },
         {
@@ -2724,8 +2724,8 @@
             "info": "Hernekeittoa ilm Pannukakkua ja hilloa",
             "allergens": [
                 "L",
-                "G",
-                "M"
+                "M",
+                "G"
             ]
         },
         {
@@ -2741,10 +2741,10 @@
             "price": "U",
             "info": "Persiljalimemajoneesia Juustokuorrutettu tonnikalaleipä Maalaisranskalaisia",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         }
     ],
@@ -2838,25 +2838,25 @@
             "allergens": "U"
         },
         {
-            "name": "Ph ti nm beef pho soup",
+            "name": "Phở bò tái nạm beef pho soup",
             "price": "16,90",
             "info": "Traditional vietnamese pho rice noodles soup with beef fillet and brisket prepared in southern style",
             "allergens": "U"
         },
         {
-            "name": "Bn tht xo contains peanuts",
+            "name": "Bún thịt xào contains peanuts",
             "price": "14,90",
             "info": "Lemongrass stirfried pork tenderloin served with rice noodles roasted peanuts green salad pickled carrot and daikon and sweet fish sauce",
             "allergens": "U"
         },
         {
-            "name": "tiu chay vegan soup contains peanuts celery soya wheat",
+            "name": "Hủ tiếu chay vegan soup contains peanuts celery soya wheat",
             "price": "15,90",
-            "info": "tiu tapioca noodles in vegetable broth topped roasted peanuts mushroom bean curd fried vegan wonton soy sausage fried onions and sliced tofu",
+            "info": "Hủ tiếu tapioca noodles in vegetable broth topped roasted peanuts mushroom bean curd fried vegan wonton soy sausage fried onions and sliced tofu",
             "allergens": "U"
         },
         {
-            "name": "Vegan ph",
+            "name": "Vegan phở",
             "price": "U",
             "info": "Rice noodles in vegetable broth topped vegan chicken mushroom tofu mung sprouts and herbs",
             "allergens": "U"
@@ -3359,9 +3359,9 @@
             "price": "13,50",
             "info": "Savustettua bbq jalotofua sitruunaaiolia ja ranskalaisia saatavilla",
             "allergens": [
+                "VE",
                 "M",
-                "G",
-                "VE"
+                "G"
             ]
         },
         {
@@ -3370,8 +3370,8 @@
             "info": "Pannupaistettua kirjolohta miso hapankermaa paahdettua parsakaalia ja porkkanaa saatavilla",
             "allergens": [
                 "L",
-                "G",
-                "M"
+                "M",
+                "G"
             ]
         },
         {
@@ -3379,9 +3379,9 @@
             "price": "12,50",
             "info": "Halon hernekeittoa ja sinappia",
             "allergens": [
+                "VE",
                 "M",
-                "G",
-                "VE"
+                "G"
             ]
         }
     ],
@@ -3425,9 +3425,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "VE",
                 "L",
-                "G",
-                "VE"
+                "G"
             ]
         }
     ],
@@ -3471,8 +3471,8 @@
             "price": "14,90",
             "info": "Sienitryffeli salamimozzarella kolme juustoa sis pähkinä Tarjoillaan sivusalaatin kanssa",
             "allergens": [
-                "VE",
-                "L"
+                "L",
+                "VE"
             ]
         }
     ],
@@ -3532,10 +3532,10 @@
             "price": "U",
             "info": "U",
             "allergens": [
-                "L",
-                "G",
+                "VE",
                 "M",
-                "VE"
+                "L",
+                "G"
             ]
         },
         {
@@ -3640,9 +3640,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "P",
                 "L",
-                "G",
-                "P"
+                "G"
             ]
         },
         {
@@ -3650,9 +3650,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "P",
                 "L",
-                "G",
-                "P"
+                "G"
             ]
         },
         {
@@ -3670,9 +3670,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "P",
                 "L",
-                "G",
-                "P"
+                "G"
             ]
         },
         {
@@ -3680,8 +3680,8 @@
             "price": "U",
             "info": "U",
             "allergens": [
-                "P",
-                "G"
+                "G",
+                "P"
             ]
         },
         {
@@ -4010,9 +4010,9 @@
             "price": "13,50",
             "info": "Perinteistä hernekeittoa Porsaan grillipihvejä Itte tehtyä maustevoita Kasviskormaa",
             "allergens": [
+                "L",
                 "M",
-                "G",
-                "L"
+                "G"
             ]
         },
         {
@@ -4021,8 +4021,8 @@
             "info": "Höyrytettyä kukka ja parsakaalta Maalaislohkoperunoita",
             "allergens": [
                 "VEG",
-                "G",
-                "M"
+                "M",
+                "G"
             ]
         },
         {
@@ -4041,9 +4041,9 @@
             "price": "11,50",
             "info": "Paahdettua myskikurpitsakeittoa rapeaa kurpitsansiemeniä ja smetanaa Roasted butternut squash soup crunchy pumpkin seeds and sour cream",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -4078,9 +4078,9 @@
             "price": "15,50",
             "info": "Täyteläistä metsäsienirisottoa ruohosipulia ja parmesaania Fullbodied wild mushroom risotto chives and parmesan cheese",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -4144,7 +4144,7 @@
             ]
         },
         {
-            "name": "Ala cart pizzat",
+            "name": "Ala carté pizzat",
             "price": "U",
             "info": "U",
             "allergens": "U"
@@ -4156,9 +4156,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "L",
                 "M",
-                "G",
-                "L"
+                "G"
             ]
         },
         {
@@ -4220,9 +4220,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "L",
                 "M",
-                "G",
-                "L"
+                "G"
             ]
         },
         {
@@ -4361,11 +4361,11 @@
             "price": "13,30",
             "info": "Hernesosekeittoa ilm Talon kukkakaalimanchegopihvejä ilm Limekorianteriranskankermaa ilm Katkarapunuudelia ja kasviksia Crispy chicken Currymajoneesia Smoked paprika paahdettuja perunoita ilm Churro Suklaakastiketta Päivän pizza Päivän kasvispizza",
             "allergens": [
-                "L",
-                "M",
-                "VS",
                 "VEG",
-                "G"
+                "M",
+                "G",
+                "L",
+                "VS"
             ]
         }
     ],
@@ -4496,10 +4496,10 @@
             "price": "U",
             "info": "ilm Paahdettuja siemeniä",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -4507,10 +4507,10 @@
             "price": "U",
             "info": "Mausteista vönertäytettä ilm",
             "allergens": [
-                "L",
-                "VS",
+                "VEG",
                 "M",
-                "VEG"
+                "L",
+                "VS"
             ]
         },
         {
@@ -4527,11 +4527,11 @@
             "price": "U",
             "info": "Jamaicalaista kanamakkarapataa ilm Paahdettua perunaa ilm",
             "allergens": [
-                "L",
-                "M",
-                "VS",
                 "VEG",
-                "G"
+                "M",
+                "G",
+                "L",
+                "VS"
             ]
         },
         {
@@ -4539,11 +4539,11 @@
             "price": "U",
             "info": "Marokkolaisia kasvispihvejä ilm Tzatsikijogurttia Paahdettua perunaa ilm",
             "allergens": [
-                "L",
-                "M",
-                "VS",
                 "VEG",
-                "G"
+                "M",
+                "G",
+                "L",
+                "VS"
             ]
         }
     ],
@@ -4553,11 +4553,11 @@
             "price": "U",
             "info": "Mustajuurisosekeittoa ilm Härkistä ja paahdettuja kasviksia teriyakiakastikkeessa ilm Sinappiporsaspataa Jasminriisiä Crispy chicken Amerikkalaista chilimajoneesia Paahdettua juustoperunaa ilm Chilillä maustettua porkkanaa Suklaamoussea",
             "allergens": [
-                "L",
-                "M",
-                "VS",
                 "VEG",
-                "G"
+                "M",
+                "G",
+                "L",
+                "VS"
             ]
         }
     ],
@@ -4567,9 +4567,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
-                "L",
+                "VEG",
                 "M",
-                "VEG"
+                "L"
             ]
         },
         {
@@ -4586,8 +4586,8 @@
             "info": "U",
             "allergens": [
                 "L",
-                "G",
-                "M"
+                "M",
+                "G"
             ]
         },
         {
@@ -4601,10 +4601,10 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -4621,10 +4621,10 @@
             "price": "U",
             "info": "U",
             "allergens": [
-                "L",
-                "G",
+                "VEG",
                 "M",
-                "VEG"
+                "L",
+                "G"
             ]
         },
         {
@@ -4644,10 +4644,10 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "VEG",
                 "L",
-                "G",
                 "M",
-                "VEG"
+                "G"
             ]
         },
         {
@@ -4994,8 +4994,8 @@
             "price": "U",
             "info": "U",
             "allergens": [
-                "L",
-                "VEG"
+                "VEG",
+                "L"
             ]
         },
         {
@@ -5060,9 +5060,9 @@
             "price": "U",
             "info": "U",
             "allergens": [
+                "VE",
                 "L",
-                "G",
-                "VE"
+                "G"
             ]
         },
         {
